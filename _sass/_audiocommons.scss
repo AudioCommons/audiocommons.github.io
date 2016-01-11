@@ -2,6 +2,7 @@ $base-font-family: 'Roboto', sans-serif;
 $base-font-weight: 300;
 $bold-font-weight: 500;
 $base-font-size:   16px;
+$smaller-font-size: 14px;
 
 $title-font-family: 'Rajdhani', sans-serif;
 $title-font-weight: 700;
@@ -78,6 +79,10 @@ hr {
 
 .uppercase_text {
     text-transform: uppercase;
+}
+
+table {
+	font-size: $smaller-font-size;
 }
 
 
