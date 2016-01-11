@@ -55,22 +55,26 @@ a.footer_link {
     text-decoration: underline;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+
+h1 {
     text-transform: uppercase;
     font-family: $title-font-family;
     font-weight: $title-font-weight;
     color: $acblue-color;
+    font-size: 3em;
+    padding-top: 60px;
+    padding-bottom: 15px;
+    text-align: center;
 }
 
-hr {
-    margin-top: 20px;
-    margin-bottom: 20px;
-    border: 0;
+h2 {
+    text-transform: uppercase;
+    font-family: $title-font-family;
+    color: $acred-color;
+    font-size: 2em;
+    padding-top: 60px;
+    padding-bottom: 15px;
+    text-align: center;
 }
 
 .img-centered {
@@ -85,6 +89,9 @@ table {
 	font-size: $smaller-font-size;
 }
 
+.page-content {
+    padding-bottom: 60px;
+}
 
 /* Header */
 
@@ -94,6 +101,7 @@ header {
     background-image: $header-bg-image; 
     background-size: 150%;
     background-repeat: no-repeat;
+    margin-bottom: -30px;
 }
 
 @media(min-width:768px) {
@@ -102,42 +110,15 @@ header {
     }
 }
 
-header .container {
-    padding-top: 75px;
-    padding-bottom: 10px;
-}
-
 header img {
     display: block;
     margin: 0 auto 20px;
     padding-top: 20px;
 }
 
-header .intro-text .name {
-    display: block;
-    font-family: $title-font-family;
-    font-size: 2em;
-    font-weight: $title-font-weight;
-}
-
-header .intro-text .skills {
-    font-size: 1.25em;
-    font-weight: $base-font-weight;
-}
-
-@media(min-width:768px) {
-    header .container {
-        padding-top: 75px;
-        padding-bottom: 10px;
-    }
-
-    header .intro-text .name {
-        font-size: 4.75em;
-    }
-
-    header .intro-text .skills {
-        font-size: 1.75em;
-    }
+header .container {
+    padding-top: 75px;
+    padding-bottom: 10px;
 }
 
 .image_credits {
@@ -148,28 +129,21 @@ header .intro-text .skills {
 
 /* Nav bar */
 
-@media(min-width:768px) {
-    .navbar-fixed-top {
-        padding: 0px 0;
-        -webkit-transition: padding .3s;
-        -moz-transition: padding .3s;
-        transition: padding .3s;
+@media(max-width:1000px)  {
+    .navbar-collapse.collapse {
+        display: none !important;
     }
-
-    .navbar-fixed-top .navbar-brand {
-        font-size: 2em;
-        -webkit-transition: all .3s;
-        -moz-transition: all .3s;
-        transition: all .3s;
-    } 
-
-    .navbar-fixed-top.navbar-shrink {
-        padding: 0px 0;
+    .navbar-collapse {
+        overflow-x: visible !important;
     }
-
-    .navbar-fixed-top.navbar-shrink .navbar-brand {
-        font-size: 2em;
+    .navbar-collapse.in {
+      overflow-y: auto !important;
     }
+    .collapse.in {
+      display: block !important;
+    }
+    .navbar-toggle { display: block !important; } 
+    .navbar-header { width: 100%; }
 }
 
 .navbar {
@@ -224,42 +198,6 @@ header .intro-text .skills {
 .navbar-default .navbar-nav>li>a {
     color: $light-gray-color;   
 }
-
-/* Sections */
-
-section {
-    padding: 75px 0;
-}
-
-section h2 {
-    margin: 0;
-    font-size: 3em;
-}
-
-section.success {
-    color: $white-color;
-    background: $acgreen-color;
-}
-
-section.success a,
-section.success a:hover,
-section.success a:focus,
-section.success a:active,
-section.success a.active {
-    outline: 0;
-    color: $acgreen-color;
-}
-
-@media(max-width:767px) {
-    section {
-        padding: 75px 0;
-    }
-
-    section.first {
-        padding-top: 75px;
-    }
-}
-
 
 /* Scroll button */
 
