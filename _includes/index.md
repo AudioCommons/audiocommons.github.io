@@ -15,7 +15,6 @@ The **Audio Commons Initiative** is supported by the European Commission through
 Do you want to be updated on the progress of the project? Please feel free to [**subscribe to our mailing list**](https://groups.google.com/a/llista.upf.edu/forum/#!forum/audiocommons-friends).
 
 
-
 ## The Audio Commons Ecosystem
 
 We envision a technology supported ecosystem of content, users and tools that should facilitate the reuse of Creative Commons audio content in the professional sector and, by extension, in the independent or non-professional sectors too. We call this the **Audio Commons Ecosystem** (or **ACE**).
@@ -31,7 +30,7 @@ The procedures for publishing and consuming content, as well as the tools for an
 The technologies needed to support this ecosystem will be developed within the AudioCommons project, including some embeddable tools developed by industrial partners of the [consortium](/about?#poject-consortium). However, most of the components to support such an ecosystem do in fact already exist in a form or another. There already exist sound sharing platforms such as [Jamendo](www.jamendo.com), [Freesound](www.freesound.org), [cc-Mixter](http://www.ccmixter.org) (potential Audio Commons content providers) and others that host Creative Commons audio content and that have APIs through which it can be retrieved by third-party applications. There exist a number of tools for annotating audio content (some supported by the members of the consortium), and there exist some tools for the creative industries which integrate Creative Commons content from online platforms such as [Ardour](https://ardour.org), a digital audio workstation which can directly retrieve content from Freesound. The ecosystem that we want to support will therefore be rooted in existing and successful technologies.
      
 
-## Research
+## Research Topics
 
 In order to make Creative Commons audio content reusable in the creative industries there are some clearly defined issues that can be faced through the research and development of new technologies and improvement of existing ones. The Audio Commons Initiative, as a supported research and innovation action, will devote a special emphasis on researching about the following topics:
 
