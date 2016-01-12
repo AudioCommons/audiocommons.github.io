@@ -61,7 +61,7 @@ h1 {
     font-family: $title-font-family;
     font-weight: $title-font-weight;
     color: $acblue-color;
-    font-size: 3em;
+    font-size: 2.8em;
     padding-top: 80px;
     padding-bottom: 15px;
     text-align: center;
@@ -227,4 +227,38 @@ header .container {
 
 .scroll-top .btn:focus {
     outline: 0;
+}
+
+/* News posts */
+
+.news-list {
+    list-style-type: none;
+}
+
+.post-title {
+    text-align: left;
+    padding-bottom: 0px;
+}
+
+.post-meta {
+    font-family: $title-font-family;
+    color: $acred-color;
+    font-size: 1.3em;
+    padding-bottom: 5px;
+}
+
+.post-list-title {
+    font-family: $title-font-family;
+    color: $acred-color;
+    font-size: 1.5em;
+    padding-bottom: 5px;
+}
+
+.post-list-title a {
+    color: $acred-color;
+}
+
+.post-list-meta {
+    color: $dark-gray-color;
+    padding-bottom: 5px;
 }

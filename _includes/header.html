@@ -31,8 +31,8 @@
                 <li class="page-scroll">
                     <a href="{{ "/" | prepend: site.baseurl }}#get-involved">Get Involved</a>
                 </li>
-                <li class="page-scroll {% if page.title == "News" %}active{% endif %}">
-                    <a href="/news">News</a>
+                <li class="page-scroll {% if page.id == "news" %}active{% endif %}">
+                    <a href="/news">News</a>{{page.other}}
                 </li>
             </ul>
         </div>
