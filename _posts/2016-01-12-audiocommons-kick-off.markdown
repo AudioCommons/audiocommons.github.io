@@ -6,7 +6,7 @@ date:   2016-01-12 18:00:00
 ---
 
 The AudioCommons kick-off meeting will take place on Tuesday 19th and Wednesday 20th of January 2016 at Universitat Pompeu Fabra, Barcelona, Spain.
-We are therefore now officially ready to start with this new and exciting project and initiative. Besides the internal meetings of the consortium, the kick-off event will include an open presentations session in which we will go over the core ideas behind this initiative and each of the partners of the project will introduce what is being done, and what will be done, in relation to AudioCommons. The open presentations session will take place on Wednesday 20th starting at 10h, and will include the following talks:
+We are therefore now officially ready to start with this new and exciting project and initiative. Besides the internal meetings of the consortium, the kick-off event will include an open presentations session in which we will go over the core ideas behind this initiative and each of the partners will introduce what is being done, and what will be done, in relation to AudioCommons. The open presentations session will take place on Wednesday 20th starting at 10h in room 55.309 of Poblenou Campus (UPF), and will include the following talks:
  
 
 
