@@ -28,7 +28,7 @@ $(document).ready(function(){
             	nextDivPos = $(aArray[i+1]).offset().top;
             }
             var divHeight =  nextDivPos - divPos;
-            if (windowPos >= divPos && windowPos < (divPos + divHeight)) {
+            if (windowPos >= (divPos - 20) && windowPos < ((divPos - 20) + divHeight)) {
                 $("a[href='/" + theID + "']").parent().addClass("active");
             } else {
                 $("a[href='/" + theID + "']").parent().removeClass("active");
