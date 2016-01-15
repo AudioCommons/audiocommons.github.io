@@ -12,7 +12,7 @@ Moreover, no tools are easily available to search and incorporate Creative Commo
 The **Audio Commons Initiative** is therefore aimed at promoting the use of open audio content and at developing technologies with which to support an envisioned **ecosystem** of content repositories, production tools and users (the [Audio Commons Ecosystem](#the-audio-commons-ecosystem)). These technologies should enable the reuse of this audio material, facilitating its integration in the production workflows of the creative industries.
 
 The **Audio Commons Initiative** is supported by the European Commission through the [Horizon 2020](http://ec.europa.eu/programmes/horizon2020/) programme (research and innovation grant 688382), and its [project consortium](/about?#poject-consortium) is formed by leading research institutes in sound and music computing and key players in the creative industries.
-Do you want to be updated on the progress of the project? Please feel free to [**subscribe to our mailing list**](https://groups.google.com/a/llista.upf.edu/forum/#!forum/audiocommons-friends).
+Do you want to be updated on the progress of the project? Please feel free to [**subscribe to our mailing list**](https://groups.google.com/a/llista.upf.edu/forum/#!forum/audiocommons-friends) or follow us on Twitter at [**@AudioCommons**](https://twitter.com/AudioCommons).
 
 
 ## The Audio Commons Ecosystem
