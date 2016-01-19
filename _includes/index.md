@@ -149,13 +149,13 @@ Key people behind the AudioCommons consortium:
         <tr>
             <td>Tim Brookes</td>
             <td>Institute of Sound Recording, University of Surrey</td>
-            <td><a href="http://iosr.surrey.ac.uk/staff/brookes.php" target="blank">site</a></td>
+            <td><a href="http://iosr.uk/staff/brookes.php" target="blank">site</a></td>
             <td><i></i></td>
         </tr>
         <tr>
             <td>Russell Mason</td>
             <td>Institute of Sound Recording, University of Surrey</td>
-            <td><a href="http://iosr.surrey.ac.uk/staff/mason.php " target="blank">site</a></td>
+            <td><a href="http://iosr.uk/staff/mason.php" target="blank">site</a></td>
             <td><i></i></td>
         </tr>
         <tr>
