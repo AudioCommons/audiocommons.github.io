@@ -160,13 +160,13 @@ Key people behind the AudioCommons consortium:
         </tr>
         <tr>
             <td>David Plans</td>
-            <td>Center for the Digital Economy, University of Surrey</td>
+            <td>Centre for the Digital Economy, University of Surrey</td>
             <td><a href="http://www.surrey.ac.uk/sbs/people/david_plans/" target="blank">site</a></td>
             <td><i></i></td>
         </tr>
         <tr>
             <td>Carla Bonina</td>
-            <td>Center for the Digital Economy, University of Surrey</td>
+            <td>Centre for the Digital Economy, University of Surrey</td>
             <td><a href="http://www.surrey.ac.uk/sbs/people/carla_bonina/" target="blank">site</a></td>
             <td><i></i></td>
         </tr>
