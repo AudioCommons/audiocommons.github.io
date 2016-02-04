@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "AudioCommons publication at AES 61st Conference on Audio for Games"
-date:   2016-02-03 12:00:00
 #author: Author Name
 ---
 
