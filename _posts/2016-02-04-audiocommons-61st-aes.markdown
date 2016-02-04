@@ -12,6 +12,6 @@ University of Surrey is the home of the [Centre for Vision, Speech and Signal Pr
 Queen Mary Unviserity of London is the home of [Centre for Digital Music (C4DM)](http://c4dm.eecs.qmul.ac.uk), partners of the project too.
 The presentations will be carried out by Xavier Serra and Frederic Font from the [Music Technology Group (MTG)](http://mtg.upf.edu) of Universitat Pompeu Fabra, coordinators of the AudioCommons project.
 
-+info: [presentation at University of Surrey](http://www.surrey.ac.uk/cvssp/news/events/cvssp_and_ee/the_audiocommons_initiative_and_the_technologies_for_facilitating_the_reuse_of_open_audio_content.htm).
++info: [presentation at University of Surrey](http://www.surrey.ac.uk/cvssp/news/events/cvssp_and_ee/the_audiocommons_initiative_and_the_technologies_for_facilitating_the_reuse_of_open_audio_content.htm): Monday 8 February 2016, 15pm, 10BB01 (CVSSP meeting room).
 
-+info: presentation at Queen Mary University of London (comming soon).
++info: presentation at Queen Mary University of London: Tuesday 9 February 2016, 11am, ITL top floor meeting room.
