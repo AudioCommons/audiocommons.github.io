@@ -22,7 +22,6 @@ Example of a markdown file for a news post:
 ---
 layout: post
 title:  "Title of the post"
-date:   YYYY-MM-DD HH:00:00 # -> publication date and time
 #author: Author Name # -> optional, remove the '#' character at the beggining of the line if you want to include the author name
 ---
 
