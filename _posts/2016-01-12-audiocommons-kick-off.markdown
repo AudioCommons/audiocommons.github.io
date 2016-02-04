@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "AudioCommons Kick-Off meeting"
-date:   2016-01-12 18:00:00
 #author: Author Name
 ---
 
