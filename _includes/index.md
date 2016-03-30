@@ -79,6 +79,64 @@ The AudioCommons consortium is formed by leading research institutes in sound an
 </div>
 
 
+## Supporters
+
+The following institutions, initiatives and companies have stated their support for our initiative.
+ 
+<div class="row">
+    <div class="col-sm-3">
+      <a href="http://www.tf.fau.eu/index.shtml" target="blank">
+        <img src="/assets/img/sup_logo_fau.png" class="img-responsive" alt="">
+        </a>
+    </div>
+    <div class="col-sm-3">
+      <a href="https://www.ableton.com" target="blank">
+        <img src="/assets/img/sup_logo_ableton.png" class="img-responsive" alt="">
+        </a>
+    </div>
+    <div class="col-sm-3">
+      <a href="http://www.abbeyroad.com" target="blank">
+        <img src="/assets/img/sup_logo_abbey_road.png" class="img-responsive" alt="">
+        </a>
+    </div>
+    <div class="col-sm-3">
+      <a href="http://samplecount.com" target="blank">
+        <img src="/assets/img/sup_logo_samplecount.png" class="img-responsive" alt="">
+        </a>
+    </div>
+    <div class="col-sm-3">
+      <a href="http://genesis-acoustics.com/en/" target="blank">
+        <img src="/assets/img/sup_logo_genesis.png" class="img-responsive" alt="">
+        </a>
+    </div>
+    <div class="col-sm-3">
+      <a href="http://www.oerc.ox.ac.uk" target="blank">
+        <img src="/assets/img/sup_logo_oxford.png" class="img-responsive" alt="">
+        </a>
+    </div>
+    <div class="col-sm-3">
+      <a href="https://creativecommons.org" target="blank">
+        <img src="/assets/img/sup_logo_cc.png" class="img-responsive" alt="">
+        </a>
+    </div>
+    <div class="col-sm-3">
+      <a href="http://www.europeanasounds.eu" target="blank">
+        <img src="/assets/img/sup_logo_europeana_sounds.png" class="img-responsive" alt="">
+        </a>
+    </div>
+    <div class="col-sm-3">
+      <a href="http://www.bl.uk" target="blank">
+        <img src="/assets/img/sup_logo_bl.png" class="img-responsive" alt="">
+        </a>
+    </div>
+    <div class="col-sm-3">
+      <a href="https://looplabs.com" target="blank">
+        <img src="/assets/img/sup_logo_looplabs.png" class="img-responsive" alt="">
+        </a>
+    </div>
+</div>
+
+
 
 ## Get Involved
 
