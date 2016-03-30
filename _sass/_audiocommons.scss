@@ -235,6 +235,16 @@ header .container {
     list-style-type: none;
 }
 
+.materials-list {
+    list-style-type: none;
+    padding-left:0;
+    padding-right:10px;
+}
+
+.materials-list li {
+    margin-bottom: 25px;
+}
+
 .post-title {
     text-align: left;
     padding-bottom: 0px;

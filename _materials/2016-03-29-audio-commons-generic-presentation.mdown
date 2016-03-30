@@ -1,5 +1,0 @@
----
-layout: post
-title:  "Audio Commons generic presentation"
-#author: Author Name
----
