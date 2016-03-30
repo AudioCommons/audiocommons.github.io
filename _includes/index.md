@@ -81,7 +81,7 @@ The AudioCommons consortium is formed by leading research institutes in sound an
 
 ## Supporters
 
-The following institutions, initiatives and companies have stated their support for our initiative.
+The following institutions, initiatives and companies have stated their support for the Audio Commons Initiative:
  
 <div class="row">
     <div class="col-sm-3">
