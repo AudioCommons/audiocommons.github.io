@@ -108,13 +108,25 @@ Key people behind the AudioCommons consortium:
             <td>Alastair Porter</td>
             <td>Music Technology Group, Universitat Pompeu Fabra</td>
             <td></td>
-            <td></td>
+            <td><i></i></td>
         </tr>
         <tr>
             <td>Dmitry Bogdanov</td>
             <td>Music Technology Group, Universitat Pompeu Fabra</td>
             <td><a href="http://mtg.upf.edu/people/dbogdanov" target="blank">site</a></td>
+             <td><i></i></td>
+        </tr>
+        <tr>
+            <td>Xavier Favory</td>
+            <td>Music Technology Group, Universitat Pompeu Fabra</td>
             <td></td>
+            <td><i></i></td>
+        </tr>
+        <tr>
+            <td>Eduardo Fonseca</td>
+            <td>Music Technology Group, Universitat Pompeu Fabra</td>
+            <td></td>
+            <td><i></i></td>
         </tr>
         <tr>
             <td>George Fazekas</td>
@@ -132,6 +144,12 @@ Key people behind the AudioCommons consortium:
             <td>Mark Sandler</td>
             <td>Centre for Digital Music, Queen Mary University of London</td>
             <td><a href="http://www.eecs.qmul.ac.uk/people/view/3114/prof-mark-sandler" target="blank">site</a></td>
+            <td><i></i></td>
+        </tr>
+        <tr>
+            <td>Lasse Vetter</td>
+            <td>Centre for Digital Music, Queen Mary University of London</td>
+            <td></td>
             <td><i></i></td>
         </tr>
         <tr>
@@ -168,6 +186,12 @@ Key people behind the AudioCommons consortium:
             <td>Carla Bonina</td>
             <td>Centre for the Digital Economy, University of Surrey</td>
             <td><a href="http://www.surrey.ac.uk/sbs/people/carla_bonina/" target="blank">site</a></td>
+            <td><i></i></td>
+        </tr>
+        <tr>
+            <td>Milosz Miszczynski</td>
+            <td>Centre for the Digital Economy, University of Surrey</td>
+            <td></td>
             <td><i></i></td>
         </tr>
         <tr>
