@@ -17,19 +17,11 @@
         <div class="collapse navbar-collapse uppercase_text" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 <li class="page-scroll">
-                    <a href="{{ "/" | prepend: site.baseurl }}#the-audio-commons-initiative">About</a>
+                    <!--a href="{{ "/" | prepend: site.baseurl }}#the-audio-commons-initiative">About</a-->
+                    <a href="/">About</a>
                 </li>
-                <!--<li class="page-scroll">
-                    <a href="{{ "/" | prepend: site.baseurl }}#the-audio-commons-ecosystem">Ecosystem</a>
-                </li>
-                <li class="page-scroll">
-                    <a href="{{ "/" | prepend: site.baseurl }}#research-topics">Research</a>
-                </li>
-                <li class="page-scroll">
-                    <a href="{{ "/" | prepend: site.baseurl }}#project-consortium">Consortium</a>
-                </li>-->
-                <li class="page-scroll">
-                    <a href="{{ "/" | prepend: site.baseurl }}#get-involved">Get Involved</a>
+                <li class="page-scroll {% if page.id == "team" %}active{% endif %}">
+                    <a href="/team">Team</a>
                 </li>
                 <li class="page-scroll {% if page.id == "news" %}active{% endif %}">
                     <a href="/news">News</a>{{page.other}}
