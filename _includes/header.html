@@ -18,13 +18,16 @@
             <ul class="nav navbar-nav navbar-right">
                 <li class="page-scroll">
                     <!--a href="{{ "/" | prepend: site.baseurl }}#the-audio-commons-initiative">About</a-->
-                    <a href="/">About</a>
+                    <a href="/">About Audio Commons</a>
                 </li>
                 <li class="page-scroll {% if page.id == "team" %}active{% endif %}">
                     <a href="/team">Team</a>
                 </li>
                 <li class="page-scroll {% if page.id == "news" %}active{% endif %}">
                     <a href="/news">News</a>{{page.other}}
+                </li>
+                <li class="page-scroll {% if page.id == "materials" %}active{% endif %}">
+                    <a href="/materials">Materials</a>{{page.other}}
                 </li>
             </ul>
         </div>

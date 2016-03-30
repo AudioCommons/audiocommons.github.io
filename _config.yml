@@ -10,3 +10,5 @@ github_username:  audiocommons
 
 # Build settings
 markdown: kramdown
+collections:
+- materials
