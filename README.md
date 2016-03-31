@@ -37,7 +37,7 @@ title:  "Title of the post"
 Here it goes the post body using markdown syntax.
 ```
 
-Here is an example of an [existing news post](https://raw.githubusercontent.com/AudioCommons/audiocommons.github.io/master/_posts/2016-02-04-audiocommons-61st-aes.markdown).
+Here is an example of an [existing news post](https://raw.githubusercontent.com/AudioCommons/audiocommons.github.io/master/_posts/2016-02-04-audiocommons-61st-aes.md).
 Checkout [Github's markdown syntax guide](https://guides.github.com/features/mastering-markdown/) for examples on how to format text with markdown.
 
 Existing news entries can also be easily edited by navigating to the file with the Github web interface and clicking on **Edit this file** (i.e., the icon with a pencil). When changes are commited to the `master` branch the post will be automatically updated on the site.
@@ -49,7 +49,7 @@ To post a new entry in the materials section you must create a new file in the [
 The file must have the extension `.md`, but it does not need to follow any other naming convention.
 Similarly as for the news section, the file must include a YAML frontmatter with all the required metadata so that it can be rendered. Unlike posting in the news section, the files does not need to have any contents other than the YAML frontmatter.
 
-See an example of the *materials* enrty [file for the Audio Commons logos](https://github.com/AudioCommons/audiocommons.github.io/blob/master/_materials/logo_exports.mdown):
+See an example of the *materials* enrty [file for the Audio Commons logos](https://github.com/AudioCommons/audiocommons.github.io/blob/master/_materials/logo_exports.md):
 
 ```markdown
 ---
