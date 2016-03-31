@@ -1,22 +1,26 @@
 # audiocommons.github.io
-Website of the Audio Commons Initiative and AudioCommons project
+Website of the Audio Commons Initiative/AudioCommons project
 
-## Instructions for editing the site
+The Audio Commons website is hosted as a static page in Github Pages, and is built using the [Jekyll framework](http://jekyllrb.com).
+To edit the site you have to contribute your changes (e.g., news posts and materials) to this source code repository. 
+After your changes are commited and merged to the master branch, Github will **automatically rebuild** the static site and make it instantly available to the public.
+Note that editing existing contents and adding new contents can be all done directly from the Github web interface.
+It is therefore not strictly needed to clone the repository and install the required software to edit the site locally.  
+Instructions for setting up a local copy of a Github Pages site can be [found here](https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/).
 
-The Audio Commons website is hosted as a static page in Github Pages using the [Jekyll framework](http://jekyllrb.com).
-To edit the site you have to contribute your changes or news posts to this code repository. 
-After your changes are commited and merged to the master branch, Github will automatically rebuild the static site and make it instantly available to the public.
+In order to contribute to this repository you'll need a Github account and you'll need to be a member of the AudioCommons Github organisation. Please, send your membership requests to [ffont](https://github.com/ffont) or [alastair](https://github.com/alastair).
 
-In order to contribute to this repository you'll need a Github account and you'll need to be a member of the AudioCommons Github organisation.
-Please, send your membership requests to [ffont](https://github.com/ffont) or [alastair](https://github.com/alastair).
+## Instructions for contributing to the Audio Commons site
 
-### Posting news entries
+### Posting in the "news" section
 
-You can add a news entry by creating a file in the [_posts](https://github.com/AudioCommons/audiocommons.github.io/tree/master/_posts) folder.
+You can add a news post by creating a file in the [_posts](https://github.com/AudioCommons/audiocommons.github.io/tree/master/_posts) folder of this repository.
+Note that you can directly create the file from the Github web interface by navigating to the [_posts](https://github.com/AudioCommons/audiocommons.github.io/tree/master/_posts) folder and licking on **New file**.
 The file must be markdown formatted and must include a number of metadata fields in a YAML front matter (see example below). 
 It must be named as `YYYY-MM-DD-short-version-of-title.markdown` (YYYY-MM-DD being the publication date).
+Once the file is commited to the `master` branch (Github web interface will do it for you upon saving the newly created file), it will automatically be added to the news section (it may take a few seconds).
 
-Example of a markdown file for a news post:
+Required structure of the markdown file for a news post:
 
 ```markdown
 ---
@@ -28,6 +32,12 @@ title:  "Title of the post"
 Here it goes the post body using markdown syntax.
 ```
 
-Checkout [Github's markdown syntax guide](https://guides.github.com/features/mastering-markdown/) for examples on how to type with markdown.
+And here is an example of an [existing news post](https://raw.githubusercontent.com/AudioCommons/audiocommons.github.io/master/_posts/2016-02-04-audiocommons-61st-aes.markdown).
+Checkout [Github's markdown syntax guide](https://guides.github.com/features/mastering-markdown/) for examples on how to format text with markdown.
 
-**Tip:** Github allows you to edit and create new files directly via its web interface, therefore you do not need to clone this repository locally to contribute to the web ;)
+Existing news entries can also be easily edited by navigating to the file with the Github web interface and clicking on **Edit this file** (i.e., the icon with a pencil).
+
+
+### Posting in the "materials" section
+
+TODO
