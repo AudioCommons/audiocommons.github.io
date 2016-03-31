@@ -16,7 +16,17 @@ permalink: /materials/
             {% assign list = (sorted_materials | where: "type" , "document") %}
             {% if list.size > 0  %}
                 {% for material in list reversed %}
-                    <li>{{ material.title }}</li>
+                    <li>
+                        {% if material.link %}<a href="{{ material.link }}" target="_blank">{% endif %}
+                        <b>{{ material.title }}</b>{% if material.link %}</a>{% endif %}{% if material.date %}, {{ material.date | date: '%B %Y' }}.{% endif %}
+                        {% if material.download_link %}
+                            <a href="{{ material.download_link }}" target="_blank">Download here</a>.
+                        {% endif %}
+                        {% if material.description %}{{ material.description }}{% endif %}
+                        {% if material.license %}
+                            License: {{ material.license }}.
+                        {% endif %}
+                    </li>
                 {% endfor %}
             {% else %}
                 No documents have been uploaded yet...
