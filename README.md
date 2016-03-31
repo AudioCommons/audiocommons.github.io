@@ -3,7 +3,7 @@ Website of the Audio Commons Initiative/AudioCommons project
 
 The Audio Commons website is hosted as a static page in Github Pages, and is built using the [Jekyll framework](http://jekyllrb.com).
 To edit the site you have to contribute your changes (e.g., news posts and materials) to this source code repository. 
-After your changes are commited and merged to the master branch, Github will **automatically rebuild** the static site and make it instantly available to the public.
+After your changes are committed and merged to the master branch, Github will **automatically rebuild** the static site and make it instantly available to the public.
 Note that editing existing contents and adding new contents can be all done directly from the Github web interface.
 It is therefore not strictly needed to clone the repository and install the required software to edit the site locally. Instructions for setting up a local copy of a Github Pages site can be [found here](https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/).
 
@@ -26,7 +26,7 @@ You can add a news post by creating a file in the [_posts](https://github.com/Au
 Note that you can directly create the file from the Github web interface by navigating to the [_posts](https://github.com/AudioCommons/audiocommons.github.io/tree/master/_posts) folder and licking on **New file**.
 The file must be markdown formatted and must include a number of metadata fields in a YAML front matter (see example below). 
 It must be named as `YYYY-MM-DD-short-version-of-title.md` (YYYY-MM-DD being the publication date).
-Once the file is saved and commited to the `master` branch (Github web interface will do it for you upon saving the newly created file), it will automatically be added to the news section (it may take a few seconds).
+Once the file is saved and committed to the `master` branch (Github web interface will do it for you upon saving the newly created file), it will automatically be added to the news section (it may take a few seconds).
 
 Required structure of the markdown file for a news post:
 
@@ -34,7 +34,7 @@ Required structure of the markdown file for a news post:
 ---
 layout: post
 title:  "Title of the post"
-#author: Author Name # -> optional, remove the '#' character at the beggining of the line if you want to include the author name
+#author: Author Name # -> optional, remove the '#' character at the begginning of the line if you want to include the author name
 ---
 
 Here it goes the post body using markdown syntax.
@@ -43,14 +43,14 @@ Here it goes the post body using markdown syntax.
 Here is an example of an [existing news post](https://raw.githubusercontent.com/AudioCommons/audiocommons.github.io/master/_posts/2016-02-04-audiocommons-61st-aes.md).
 Checkout [Github's markdown syntax guide](https://guides.github.com/features/mastering-markdown/) for examples on how to format text with markdown.
 
-Existing news entries can also be easily edited by navigating to the file with the Github web interface and clicking on **Edit this file** (i.e., the icon with a pencil). When changes are commited to the `master` branch the post will be automatically updated on the site.
+Existing news entries can also be easily edited by navigating to the file with the Github web interface and clicking on **Edit this file** (i.e., the icon with a pencil). When changes are committed to the `master` branch the post will be automatically updated on the site.
 
 
 ### Posting in the "materials" section
 
 To post a new entry in the materials section you must create a new file in the [_materials](https://github.com/AudioCommons/audiocommons.github.io/tree/master/_materials) folder.
 The file must have the extension `.md`, but it does not need to follow any other naming convention.
-Similarly as for the news section, the file must include a YAML frontmatter with all the required metadata so that it can be rendered. Unlike posting in the news section, the files does not need to have any contents other than the YAML frontmatter.
+Similarly as for the news section, the file must include a YAML front matter with all the required metadata so that it can be rendered. Unlike posting in the news section, the files does not need to have any contents other than the YAML front matter.
 
 See an example of the *materials* enrty [file for the Audio Commons logos](https://github.com/AudioCommons/audiocommons.github.io/blob/master/_materials/logo_exports.md):
 
@@ -65,16 +65,16 @@ license: CC0
 ---
 ```
 
-Depedning on which metadata fields are included in the frontmatter, the entry will be rendered in different ways.
+Depending on which metadata fields are included in the front matter, the entry will be rendered in different ways.
 The current available fields are the following:
 
 **Metadata field** | **Description**
 ------------ | -------------
 **type** | Must be either **document**, **paper** or **other**. The material entry will appear in the corresponding section of the [materials page](http://www.audiocommons.org/materials/). The rendering of the entry will also vary depending on its type.
 **title** | Title of the entry to be displayed in the page (the filename is not used).
-**date** | Date to be displayed next to the title and to be used for sorting purposes. Introduce it in ``YYYY-MM-DD``format.
+**date** | Date to be displayed next to the title and to be used for sorting purposes. Introduce it in ``YYYY-MM-DD`` format.
 **link** | Link to be added to the title. If this field is not present, the title will be displayed with no link (as in the example above).
-**description** | Textual description of the material entry to be displayed in the page. If this field is not present, no textual description will be displayed. If descirption is provided, please keep it short ;)
+**description** | Textual description of the material entry to be displayed in the page. If this field is not present, no textual description will be displayed. If description is provided, please keep it short ;)
 **download_link** | Link to a downloadable file related to the entry (see below if you want to host a file in the Audio Commons page itself). If the field is not present, no link will be displayed.
 **preprint_link** | Link to a downloadable pre-print version of a paper (see below if you want to host a file in the Audio Commons page itself). This field will only be shown if present and if the type of the entry is set to **paper**.
 **publishers_link** | Link to the publisher's site entry for a paper. This field will only be shown if present and if the type of the entry is set to **paper**.
@@ -86,7 +86,7 @@ The current available fields are the following:
 For some of the entries in the materials section (documents, papers...), it will be useful to directly host a linked file (e.g., a pdf of the paper) in the Audio Commons site itself. 
 To do that, a file must be uploaded to the [assets/files/](https://github.com/AudioCommons/audiocommons.github.io/tree/master/assets/files) folder.
 You can do that directly from the Github web interface by navigating to the [assets/files/](https://github.com/AudioCommons/audiocommons.github.io/tree/master/assets/files) folder and clicking on **Upload files**.
-Once the files are uploaded and commited to the `master` branch, you can link to them using the path `/assets/files/filename.extension` (within the Audio Commons site) or the full url `http://www.audiocommons.org/assets/files/filename.extension` (if linking from an external page).
+Once the files are uploaded and committed to the `master` branch, you can link to them using the path `/assets/files/filename.extension` (within the Audio Commons site) or the full url `http://www.audiocommons.org/assets/files/filename.extension` (if linking from an external page).
 
 
 ### Other contributions
@@ -95,7 +95,7 @@ Other site modifications can be done similarly as described in the above section
 The **Team** section can be modified editing the [team.md](https://github.com/AudioCommons/audiocommons.github.io/blob/master/team.md) markdown file.
 Also, the **About Audio Commons** section can be modified editing the [_includes/index.md](https://github.com/AudioCommons/audiocommons.github.io/blob/master/_includes/index.md) markdown file.
 
-Please get familiar with the [Jekyll framework](http://jekyllrb.com) to make sure you undersand the code structure and functioning before editing. Edits other than adding news or materials entries should not be directly commited to the `master` branch but should ideally be commited to a new branch and a [pull request](https://help.github.com/articles/using-pull-requests/) should be started. 
+Please get familiar with the [Jekyll framework](http://jekyllrb.com) to make sure you understand the code structure and functioning before editing. Edits other than adding news or materials entries should not be directly committed to the `master` branch but should ideally be committed to a new branch and a [pull request](https://help.github.com/articles/using-pull-requests/) should be started. 
 The admins will then take care of merging the pull request to the `master`branch.
 
 If you have any doubts or need further help, please don't hesitate to contact [ffont](https://github.com/ffont) or [alastair](https://github.com/alastair).
