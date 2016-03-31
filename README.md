@@ -48,5 +48,5 @@ TODO
 Other site edits can be done similarly as described in the above sections.
 Please get familiar with the [Jekyll framework](http://jekyllrb.com) to make sure you undersand the code structure and functioning before editing. Furthermore, edits other than adding news or materials entries should not be directly commited to the `master` branch but should ideally be commited to a new branch and a [pull request](https://help.github.com/articles/using-pull-requests/) should be started.
 
-For any doubts please don't hesitate to contact [ffont](https://github.com/ffont) or [alastair](https://github.com/alastair).
+If you have any doubts or need further help please don't hesitate to contact [ffont](https://github.com/ffont) or [alastair](https://github.com/alastair).
 
