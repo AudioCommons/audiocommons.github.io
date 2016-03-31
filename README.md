@@ -17,7 +17,7 @@ In order to contribute to this repository you'll need a Github account and you'l
 You can add a news post by creating a file in the [_posts](https://github.com/AudioCommons/audiocommons.github.io/tree/master/_posts) folder of this repository.
 Note that you can directly create the file from the Github web interface by navigating to the [_posts](https://github.com/AudioCommons/audiocommons.github.io/tree/master/_posts) folder and licking on **New file**.
 The file must be markdown formatted and must include a number of metadata fields in a YAML front matter (see example below). 
-It must be named as `YYYY-MM-DD-short-version-of-title.markdown` (YYYY-MM-DD being the publication date).
+It must be named as `YYYY-MM-DD-short-version-of-title.md` (YYYY-MM-DD being the publication date).
 Once the file is saved and commited to the `master` branch (Github web interface will do it for you upon saving the newly created file), it will automatically be added to the news section (it may take a few seconds).
 
 Required structure of the markdown file for a news post:
@@ -41,7 +41,7 @@ Existing news entries can also be easily edited by navigating to the file with t
 ### Posting in the "materials" section
 
 To post a new entry in the materials section you must create a new file in the [_materials](https://github.com/AudioCommons/audiocommons.github.io/tree/master/_materials) folder.
-The file must have the extension `.markdown` or `.mdown`, but it does not need to follow any other naming convention.
+The file must have the extension `.md`, but it does not need to follow any other naming convention.
 Similarly as for the news section, the file must include a YAML frontmatter with all the required metadata so that it can be rendered. Unlike posting in the news section, the files does not need to have any contents other than the YAML frontmatter.
 
 See an example of the *materials* enrty [file for the Audio Commons logos](https://github.com/AudioCommons/audiocommons.github.io/blob/master/_materials/logo_exports.mdown):
