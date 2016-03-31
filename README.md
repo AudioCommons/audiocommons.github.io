@@ -47,7 +47,7 @@ TODO
 
 Other site modifications can be done similarly as described in the above sections.
 The **Team** section can be modified editing the [team.md](https://github.com/AudioCommons/audiocommons.github.io/blob/master/team.md) markdown file.
-Also, the **About Audio Commons* section can be modified editing the [_includes/index.md](https://github.com/AudioCommons/audiocommons.github.io/blob/master/_includes/index.md) markdown file.
+Also, the **About Audio Commons** section can be modified editing the [_includes/index.md](https://github.com/AudioCommons/audiocommons.github.io/blob/master/_includes/index.md) markdown file.
 
 Please get familiar with the [Jekyll framework](http://jekyllrb.com) to make sure you undersand the code structure and functioning before editing. Edits other than adding news or materials entries should not be directly commited to the `master` branch but should ideally be commited to a new branch and a [pull request](https://help.github.com/articles/using-pull-requests/) should be started. 
 The admins will then take care of merging the pull request to the `master`branch.
