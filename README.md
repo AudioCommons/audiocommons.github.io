@@ -45,8 +45,11 @@ TODO
 
 ### Other contributions
 
-Other site edits can be done similarly as described in the above sections.
-Please get familiar with the [Jekyll framework](http://jekyllrb.com) to make sure you undersand the code structure and functioning before editing. Furthermore, edits other than adding news or materials entries should not be directly commited to the `master` branch but should ideally be commited to a new branch and a [pull request](https://help.github.com/articles/using-pull-requests/) should be started.
+Other site modifications can be done similarly as described in the above sections.
+The **Team** section can be modified editing the [team.md](https://github.com/AudioCommons/audiocommons.github.io/blob/master/team.md) markdown file.
+Also, the **About Audio Commons* section can be modified editing the [_includes/index.md](https://github.com/AudioCommons/audiocommons.github.io/blob/master/_includes/index.md) markdown file.
 
-If you have any doubts or need further help please don't hesitate to contact [ffont](https://github.com/ffont) or [alastair](https://github.com/alastair).
+Please get familiar with the [Jekyll framework](http://jekyllrb.com) to make sure you undersand the code structure and functioning before editing. Edits other than adding news or materials entries should not be directly commited to the `master` branch but should ideally be commited to a new branch and a [pull request](https://help.github.com/articles/using-pull-requests/) should be started. 
+The admins will then take care of merging the pull request to the `master`branch.
 
+If you have any doubts or need further help, please don't hesitate to contact [ffont](https://github.com/ffont) or [alastair](https://github.com/alastair).
