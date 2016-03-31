@@ -18,7 +18,7 @@ You can add a news post by creating a file in the [_posts](https://github.com/Au
 Note that you can directly create the file from the Github web interface by navigating to the [_posts](https://github.com/AudioCommons/audiocommons.github.io/tree/master/_posts) folder and licking on **New file**.
 The file must be markdown formatted and must include a number of metadata fields in a YAML front matter (see example below). 
 It must be named as `YYYY-MM-DD-short-version-of-title.markdown` (YYYY-MM-DD being the publication date).
-Once the file is commited to the `master` branch (Github web interface will do it for you upon saving the newly created file), it will automatically be added to the news section (it may take a few seconds).
+Once the file is saved and commited to the `master` branch (Github web interface will do it for you upon saving the newly created file), it will automatically be added to the news section (it may take a few seconds).
 
 Required structure of the markdown file for a news post:
 
@@ -32,10 +32,10 @@ title:  "Title of the post"
 Here it goes the post body using markdown syntax.
 ```
 
-And here is an example of an [existing news post](https://raw.githubusercontent.com/AudioCommons/audiocommons.github.io/master/_posts/2016-02-04-audiocommons-61st-aes.markdown).
+Here is an example of an [existing news post](https://raw.githubusercontent.com/AudioCommons/audiocommons.github.io/master/_posts/2016-02-04-audiocommons-61st-aes.markdown).
 Checkout [Github's markdown syntax guide](https://guides.github.com/features/mastering-markdown/) for examples on how to format text with markdown.
 
-Existing news entries can also be easily edited by navigating to the file with the Github web interface and clicking on **Edit this file** (i.e., the icon with a pencil).
+Existing news entries can also be easily edited by navigating to the file with the Github web interface and clicking on **Edit this file** (i.e., the icon with a pencil). When changes are commited to the `master` branch the post will be automatically updated on the site.
 
 
 ### Posting in the "materials" section
