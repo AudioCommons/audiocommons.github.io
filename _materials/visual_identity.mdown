@@ -1,5 +1,4 @@
 ---
-layout: material
 type: "other"
 title:  "Logo and visual identity code repository"
 date: 2016-02-01

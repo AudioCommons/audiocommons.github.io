@@ -1,5 +1,4 @@
 ---
-layout: material
 type: "other"
 title:  "Audio Commons generic presentation slides"
 date: 2016-02-02

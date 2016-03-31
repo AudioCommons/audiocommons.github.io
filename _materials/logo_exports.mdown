@@ -1,5 +1,4 @@
 ---
-layout: material
 type: "other"
 title:  "Audio Commons logos"
 date: 2016-02-01

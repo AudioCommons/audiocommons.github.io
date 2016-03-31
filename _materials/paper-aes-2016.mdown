@@ -1,5 +1,4 @@
 ---
-layout: material
 type: "paper"
 title:  "Audio Commons: bringing Creative Commons audio content to the creative industries"
 date: 2016-02-01
