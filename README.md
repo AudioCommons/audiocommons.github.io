@@ -9,8 +9,8 @@ It is therefore not strictly needed to clone the repository and install the requ
 
 In order to contribute to this repository you'll need a Github account and you'll need to be a member of the AudioCommons Github organisation. Please, send your membership requests to [ffont](https://github.com/ffont) or [alastair](https://github.com/alastair).
 
-The source code for the Audio Commons site is released under GNU General Public License 3.0 (see [LICENSE.md](https://github.com/AudioCommons/audiocommons.github.io/blob/master/LICENSE.md).
-The content of the site however (i.e., entries in **News** and  **Materials** sections, and text and figures in **About Audio Commons** and **Team** sectiopns) are released under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
+The source code for the Audio Commons site is released under the GNU General Public License 3.0 (see [LICENSE.md](https://github.com/AudioCommons/audiocommons.github.io/blob/master/LICENSE.md)).
+The content of the site however (i.e., entries in **News** and  **Materials** sections, and text and figures in **About Audio Commons** and **Team** sectiopns) is released under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 
 ## Instructions for contributing to the Audio Commons site
