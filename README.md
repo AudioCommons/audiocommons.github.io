@@ -12,6 +12,11 @@ In order to contribute to this repository you'll need a Github account and you'l
 
 ## Instructions for contributing to the Audio Commons site
 
+* [Posting in the "news" section](#posting-in-the-news-section)
+* [Posting in the "materials" section](#posting-in-the-materials-section)
+  * [Hosting downloadable files in the Audio Commons site](#hosting-downloadable-files-in-the-audio-commons-site)
+* [Other contributions](#other-contributions)
+
 ### Posting in the "news" section
 
 You can add a news post by creating a file in the [_posts](https://github.com/AudioCommons/audiocommons.github.io/tree/master/_posts) folder of this repository.
