@@ -13,7 +13,7 @@ permalink: /materials/
     <div class="col-sm-4">
         <h2>Documents</h2>
         <ul class="materials-list">
-            {% assign list = (sorted_materials | where: "type" , "deliverable") %}
+            {% assign list = (sorted_materials | where: "type" , "document") %}
             {% if list.size > 0  %}
                 {% for material in list reversed %}
                     <li>{{ material.title }}</li>
