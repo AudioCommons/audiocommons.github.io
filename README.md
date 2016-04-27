@@ -23,7 +23,7 @@ The content of the site however (i.e., entries in **News** and  **Materials** se
 ### Posting in the "news" section
 
 You can add a news post by creating a file in the [_posts](https://github.com/AudioCommons/audiocommons.github.io/tree/master/_posts) folder of this repository.
-Note that you can directly create the file from the Github web interface by navigating to the [_posts](https://github.com/AudioCommons/audiocommons.github.io/tree/master/_posts) folder and licking on **New file**.
+Note that you can directly create the file from the Github web interface by navigating to the [_posts](https://github.com/AudioCommons/audiocommons.github.io/tree/master/_posts) folder and clicking on the **New file** button.
 The file must be markdown formatted and must include a number of metadata fields in a YAML front matter (see example below). 
 It must be named as `YYYY-MM-DD-short-version-of-title.md` (YYYY-MM-DD being the publication date).
 Once the file is saved and committed to the `master` branch (Github web interface will do it for you upon saving the newly created file), it will automatically be added to the news section (it may take a few seconds).
@@ -37,11 +37,11 @@ title:  "Title of the post"
 #author: Author Name # -> optional, remove the '#' character at the begginning of the line if you want to include the author name
 ---
 
-Here it goes the post body using markdown syntax.
+Add the post body here using markdown syntax.
 ```
 
 Here is an example of an [existing news post](https://raw.githubusercontent.com/AudioCommons/audiocommons.github.io/master/_posts/2016-02-04-audiocommons-61st-aes.md).
-Checkout [Github's markdown syntax guide](https://guides.github.com/features/mastering-markdown/) for examples on how to format text with markdown.
+Check [Github's markdown syntax guide](https://guides.github.com/features/mastering-markdown/) for examples on how to format text with markdown.
 
 Existing news entries can also be easily edited by navigating to the file with the Github web interface and clicking on **Edit this file** (i.e., the icon with a pencil). When changes are committed to the `master` branch the post will be automatically updated on the site.
 
@@ -50,7 +50,7 @@ Existing news entries can also be easily edited by navigating to the file with t
 
 To post a new entry in the materials section you must create a new file in the [_materials](https://github.com/AudioCommons/audiocommons.github.io/tree/master/_materials) folder.
 The file must have the extension `.md`, but it does not need to follow any other naming convention.
-Similarly as for the news section, the file must include a YAML front matter with all the required metadata so that it can be rendered. Unlike posting in the news section, the files does not need to have any contents other than the YAML front matter.
+As for the news section, the file must include a YAML front matter with all the required metadata so that it can be rendered. Unlike posting in the news section, the files does not need to have any contents other than the YAML front matter.
 
 See an example of the *materials* enrty [file for the Audio Commons logos](https://github.com/AudioCommons/audiocommons.github.io/blob/master/_materials/logo_exports.md):
 
@@ -98,4 +98,4 @@ Also, the **About Audio Commons** section can be modified editing the [_includes
 Please get familiar with the [Jekyll framework](http://jekyllrb.com) to make sure you understand the code structure and functioning before editing. Edits other than adding news or materials entries should not be directly committed to the `master` branch but should ideally be committed to a new branch and a [pull request](https://help.github.com/articles/using-pull-requests/) should be started. 
 The admins will then take care of merging the pull request to the `master`branch.
 
-If you have any doubts or need further help, please don't hesitate to contact [ffont](https://github.com/ffont) or [alastair](https://github.com/alastair).
+If you have any questions or need further help, please don't hesitate to contact [ffont](https://github.com/ffont) or [alastair](https://github.com/alastair).
