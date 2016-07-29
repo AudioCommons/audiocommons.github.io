@@ -72,11 +72,13 @@ The current available fields are the following:
 ------------ | -------------
 **type** | Must be either **document**, **paper** or **other**. The material entry will appear in the corresponding section of the [materials page](http://www.audiocommons.org/materials/). The rendering of the entry will also vary depending on its type.
 **title** | Title of the entry to be displayed in the page (the filename is not used).
+**authors** | Author names as an array of strings (e.g., ["Surname, N.", "Surname2, N2."]). This field will only be shown if present and if the type of the entry is set to **paper**.
 **date** | Date to be displayed next to the title and to be used for sorting purposes. Introduce it in ``YYYY-MM-DD`` format.
 **link** | Link to be added to the title. If this field is not present, the title will be displayed with no link (as in the example above).
 **description** | Textual description of the material entry to be displayed in the page. If this field is not present, no textual description will be displayed. If description is provided, please keep it short ;)
 **download_link** | Link to a downloadable file related to the entry (see below if you want to host a file in the Audio Commons page itself). If the field is not present, no link will be displayed.
 **preprint_link** | Link to a downloadable pre-print version of a paper (see below if you want to host a file in the Audio Commons page itself). This field will only be shown if present and if the type of the entry is set to **paper**.
+**postprint_link** | Link to a downloadable post-print version of a paper (see below if you want to host a file in the Audio Commons page itself). This field will only be shown if present and if the type of the entry is set to **paper**.
 **publishers_link** | Link to the publisher's site entry for a paper. This field will only be shown if present and if the type of the entry is set to **paper**.
 **repository_link** | Link to a source code repository. This field will only be shown if present and if the type of the entry is set to **other**.
 **license** | License of the material entry to display in the page.
