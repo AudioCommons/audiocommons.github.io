@@ -50,6 +50,9 @@ permalink: /materials/
                         {% if material.preprint_link %}
                             Download the <a href="{{ material.preprint_link }}" target="_blank">pre-print here</a>.
                         {% endif %}
+                        {% if material.postprint_link %}
+                            Download the <a href="{{ material.postprint_link }}" target="_blank">post-print here</a>.
+                        {% endif %}
                         {% if material.publishers_link %}
                             Publisher's <a href="{{ material.publishers_link }}" target="_blank">paper link</a>.
                         {% endif %}
