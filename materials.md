@@ -40,8 +40,10 @@ permalink: /materials/
             {% if list.size > 0  %}
                 {% for material in list reversed %}
                     <li>
+                        {{ material.authors|join: ', ' }}
+                        ({{ material.date | date: '%Y' }}).
                         {% if material.link %}<a href="{{ material.link }}" target="_blank">{% endif %}
-                        <b>{{ material.title }}</b>{% if material.link %}</a>{% endif %}, published in "{{material.published_in}}", {{ material.date | date: '%B %Y' }}.
+                        <b>{{ material.title }}</b>{% if material.link %}</a>{% endif %}, published in "{{material.published_in}}".
                         {% if material.download_link %}
                             Download the <a href="{{ material.download_link }}" target="_blank">full text here</a>.
                         {% endif %}
