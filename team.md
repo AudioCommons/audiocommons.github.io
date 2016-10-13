@@ -30,7 +30,7 @@ What follows is a list of key people behind the Audio Commons consortium:
         <tr>
             <td>Alastair Porter</td>
             <td>Music Technology Group, Universitat Pompeu Fabra</td>
-            <td></td>
+            <td><a href="http://www.dtic.upf.edu/~aporter/" target="blank">site</a></td>
             <td><i></i></td>
         </tr>
         <tr>
