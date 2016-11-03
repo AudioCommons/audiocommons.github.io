@@ -235,6 +235,11 @@ The following institutions, initiatives and companies have stated their support 
         <img src="/assets/img/sup_logo_looplabs.png" class="img-responsive" alt="">
         </a>
     </div>
+    <div class="col-sm-3">
+      <a href="https://acoustica.com" target="blank">
+        <img src="/assets/img/sup_acoustica.png" class="img-responsive" alt="">
+        </a>
+    </div>
 </div>
 
 ## Get Involved!
