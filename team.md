@@ -70,15 +70,9 @@ What follows is a list of key people behind the Audio Commons consortium:
             <td><i></i></td>
         </tr>
         <tr>
-            <td>Lasse Vetter</td>
+            <td>Johan Pauwels</td>
             <td>Centre for Digital Music, Queen Mary University of London</td>
-            <td></td>
-            <td><i></i></td>
-        </tr>
-        <tr>
-            <td>Damir Juric</td>
-            <td>Centre for Digital Music, Queen Mary University of London</td>
-            <td></td>
+            <td><a href="http://www.eecs.qmul.ac.uk/people/view/50775/johan-pauwels" target="blank">site</a></td>
             <td><i></i></td>
         </tr>
         <tr>
