@@ -7,7 +7,7 @@ permalink: /sonarpanel/
 
 # Panel @ Sónar +D: Creative Commons for the creative industries
 
-The Audio Commons Initiative organizes a panel in this years edition of **[Sónar +D](https://sonarplusd.com)**. Sónar +D is an international conference about creativity, technology, and cultural industries which happens inside the **[Sónar](https://sonar.es)** music festival in Barcelona form 14th to 17th of June, 2017.
+The Audio Commons Initiative organizes a panel in this years' edition of **[Sónar +D](https://sonarplusd.com)**. Sónar +D is an international conference about creativity, technology, and cultural industries which happens inside the **[Sónar](https://sonar.es)** music festival in Barcelona form 14th to 17th of June, 2017.
 The panel will take place on **June 15th 2017** ([stage and timing info here](https://sonarplusd.com/en/programs/barcelona-2017/areas/talks/creative-commons-for-the-creative-industries)).
 
 In this panel we will discuss about different perspectives and specific examples that provide a vision on **how Creative Commons content can be used by creative industries**, create economical return for content creators and how to address specific legal aspects. Do you have any questions regarding these topics? Please send your questions to us :) **We will organize the panel around the questions we receive and cover topics related to them**. Even if you're not attending the panel, don't hesitate to send your questions to us. The panel will be recorded and made available online at a later time.
