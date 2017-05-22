@@ -15,7 +15,7 @@ In this panel we will discuss about different perspectives and specific examples
 
 ## How to submit a question?
 
-You can send your questions via [Twitter](https://twitter.com). Just **tweet your question** using the hashtag **#ACSonarPlusD** and mentioning (at least) **@AudioCommons**. Tweets with this hashtag will appear below in this page. If you don't have a Twitter account, you can directly contact us by sending an email to <a href="mailto:audiocommons@upf.edu">audiocommons@upf.edu</a>.
+You can send your questions via [Twitter](https://twitter.com). Just **tweet your question** using the hashtag **#ACSonarPlusD**. Optionally, you can add a mention to @AudioCommons. Tweets with this hashtag will appear below in this page. If you don't have a Twitter account, you can directly contact us by sending an email to <a href="mailto:audiocommons@upf.edu">audiocommons@upf.edu</a>.
 
 ## Questions submitted so far...
 
