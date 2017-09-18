@@ -1,0 +1,8 @@
+---
+type: "paper"
+title: "Towards Playlist Generation Algorithms Using RNNs Trained on Within-Track Transitions"
+authors: ['Choi', ' K.', ' Fazekas', ' G.', ' Sandler', ' M.']
+date: 2016-01-01
+published_in: "Workshop on Surprise"
+publishers_link: "https://arxiv.org/abs/1606.0209"
+---
