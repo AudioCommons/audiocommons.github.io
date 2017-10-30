@@ -240,6 +240,11 @@ The following institutions, initiatives and companies have stated their support 
         <img src="/assets/img/sup_acoustica.png" class="img-responsive" alt="">
         </a>
     </div>
+    <div class="col-sm-3">
+      <a href="http://www.filmuniversitaet.de" target="blank">
+        <img src="/assets/img/sup_logo_filmuni.png" class="img-responsive" alt="">
+        </a>
+    </div>
 </div>
 
 ## Get Involved!
