@@ -82,6 +82,12 @@ What follows is a list of key people behind the Audio Commons consortium:
             <td><i></i></td>
         </tr>
         <tr>
+            <td>Anna Xambó</td>
+            <td>Centre for Digital Music, Queen Mary University of London</td>
+            <td><a href="http://annaxambo.me/" target="blank">site</a></td>
+            <td><i></i></td>
+        </tr>
+        <tr>
             <td>Mark D. Plumbley</td>
             <td>Centre for Vision, Speech and Signal Processing, University of Surrey</td>
             <td><a href="http://www.surrey.ac.uk/cvssp/people/mark_plumbley/" target="blank">site</a></td>
