@@ -5,3 +5,23 @@ _site
 package-lock.json
 node_modules/
 .jekyll-metadata
+
+*.gem
+*.rbc
+.bundle
+.config
+coverage
+InstalledFiles
+lib/bundler/man
+pkg
+rdoc
+spec/reports
+test/tmp
+test/version_tmp
+tmp
+vendor
+
+# YARD artifacts
+.yardoc
+_yardoc
+doc/
