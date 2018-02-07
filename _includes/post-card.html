@@ -16,6 +16,10 @@
                                <span class="post-card-tags">{{ tag | capitalize }}</span>
                             {% endif %}
                         {% endfor %}
+                        <span class="post-card-tags">|</span>
+                    {% endif %}
+                    {% if post.date %}
+                        <span class="post-card-tags">{{ post.date | date: "%B %Y" }}</span>
                     {% endif %}
 
                     <h2 class="post-card-title">{{ post.title }}</h2>

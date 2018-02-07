@@ -1112,7 +1112,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 
 
 .post-card-tags {
-    display: block;
+    display: inline;
     margin-bottom: 4px;
     color: #738a94;
     font-size: 1.2rem;
