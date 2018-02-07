@@ -1,7 +1,12 @@
 ---
 layout: post
+current: post
+#cover: assets/img/cover_sonarplusd.jpg
+navigation: True
 title:  "Audio Commons Survey on Creative Interactions with Audio Content"
-#author: Author Name
+class: post-template
+subclass: 'post'
+tags: news
 ---
 
 As part of one of our first actions within the AudioCommons project we’re rolling out an online survey to gain insights into how creative users interact or wish to be able to interact with audio commons content whether e.g. samples, loops, sound effects or entire songs.

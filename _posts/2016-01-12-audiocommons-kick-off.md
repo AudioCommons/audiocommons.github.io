@@ -1,7 +1,12 @@
 ---
 layout: post
+current: post
+#cover: assets/img/cover_sonarplusd.jpg
+navigation: True
 title:  "AudioCommons Kick-Off meeting"
-#author: Author Name
+class: post-template
+subclass: 'post'
+tags: news
 ---
 
 The AudioCommons kick-off meeting will take place on Tuesday 19th and Wednesday 20th of January 2016 at Universitat Pompeu Fabra, Barcelona, Spain.

@@ -1,19 +1,21 @@
 ---
 layout: page
-title: Materials
+current: materials
 id: materials
-permalink: /materials/
+title: Materials
+navigation: true
+class: page-template
+subclass: 'post page'
 ---
 
-# Materials
 
-{% assign sorted_materials = (site.materials | sort: 'date') %}
+{% assign sorted_materials = site.materials | sort: 'date' %}
 
-<div class="row">
-    <div class="col-sm-4">
-        <h2>Documents</h2>
+<div class="row_materials">
+    <div class="column_materials">
+        <h1>Documents</h1>
         <ul class="materials-list">
-            {% assign list = (sorted_materials | where: "type" , "document") %}
+            {% assign list = sorted_materials | where: "type" , "document" %}
             {% if list.size > 0  %}
                 {% for material in list reversed %}
                     <li>
@@ -33,10 +35,10 @@ permalink: /materials/
             {% endif %}
         </ul>
     </div>
-    <div class="col-sm-4">
-        <h2>Papers</h2>
+    <div class="column_materials">
+        <h1>Papers</h1>
         <ul class="materials-list">
-            {% assign list = (sorted_materials | where: "type" , "paper") %}
+            {% assign list = sorted_materials | where: "type" , "paper" %}
             {% if list.size > 0  %}
                 {% for material in list reversed %}
                     <li>
@@ -67,10 +69,10 @@ permalink: /materials/
             {% endif %}
         </ul>
     </div>
-    <div class="col-sm-4">
-        <h2>Other</h2>
+    <div class="column_materials">
+        <h1>Other</h1>
         <ul class="materials-list">
-            {% assign list = (sorted_materials | where: "type" , "other") %}
+            {% assign list = sorted_materials | where: "type" , "other" %}
             {% if list.size > 0  %}
                 {% for material in list reversed %}
                     <li>

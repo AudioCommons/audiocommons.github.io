@@ -1,13 +1,14 @@
 ---
 layout: page
-title: Team
+current: team
 id: team
-permalink: /team/
+title: Team
+navigation: true
+class: page-template
+subclass: 'post page'
 ---
 
-# The Audio Commons Team
-
-## Consortium
+# Consortium
 
 The Audio Commons consortium is formed by leading research institutes in sound and music computing and key players in the creative industries. Academic partners include the [Music Technology Group](http://mtg.upf.edu) from Universitat Pompeu Fabra (MTG, project coordinator), the [Centre for Digital Music](http://c4dm.eecs.qmul.ac.uk) from Queen Mary University of London (C4DM), and three research groups from University of Surrey: the [Centre for Vision, Speech and Signal Processing](http://www.cvssp.org) (CVSSP), the [Institute of Sound Recording](http://iosr.surrey.ac.uk) (IoSR) and the [Surrey Business School](http://www.surrey.ac.uk/business-school). On the industry side, the Audio Commons consortium includes [Jamendo](http://www.jamendo.com) (one of the biggest platforms for sharing independent Creative Commons music), [AudioGaming](http://www.audiogaming.net) (an innovative company developing next generation audio tools for sound designers and video game developers), and [Waves](http://www.waves.com) (world's leading developer of audio DSP solutions for the professional, broadcast, and consumer electronics audio markets). 
 What follows is a list of key people behind the Audio Commons consortium:
@@ -153,32 +154,32 @@ What follows is a list of key people behind the Audio Commons consortium:
 
 
 <div class="row">
-    <div class="col-sm-4">
+    <div class="column">
       <a href="http://mtg.upf.edu" target="blank">
         <img src="/assets/img/mtg_logo.png" class="img-responsive" alt="">
         </a>
     </div>
-    <div class="col-sm-4">
+    <div class="column">
       <a href="http://c4dm.eecs.qmul.ac.uk" target="blank">
         <img src="/assets/img/c4dm_logo.png" class="img-responsive" alt="">
         </a>
     </div>
-    <div class="col-sm-4">
+    <div class="column">
       <a href="http://www.surrey.ac.uk" target="blank">
         <img src="/assets/img/surrey_logo.png" class="img-responsive" alt="">
         </a>
     </div>
-    <div class="col-sm-4">
+    <div class="column">
       <a href="http://www.waves.com" target="blank">
         <img src="/assets/img/waves_logo.png" class="img-responsive" alt="">
         </a>
     </div>
-    <div class="col-sm-4">
+    <div class="column">
       <a href="http://www.jamendo.com" target="blank">
         <img src="/assets/img/jamendo_logo.png" class="img-responsive" alt="">
         </a>
     </div>
-    <div class="col-sm-4">
+    <div class="column">
       <a href="http://www.audiogaming.net" target="blank">
         <img src="/assets/img/audiogaming_logo.png" class="img-responsive" alt="">
         </a>
@@ -186,74 +187,74 @@ What follows is a list of key people behind the Audio Commons consortium:
 </div>
 
 
-## Supporters
+# Supporters
 
 The following institutions, initiatives and companies have stated their support for the Audio Commons Initiative:
  
 <div class="row">
-    <div class="col-sm-3">
+    <div class="column">
       <a href="http://www.tf.fau.eu/index.shtml" target="blank">
         <img src="/assets/img/sup_logo_fau.png" class="img-responsive" alt="">
         </a>
     </div>
-    <div class="col-sm-3">
+    <div class="column">
       <a href="https://www.ableton.com" target="blank">
         <img src="/assets/img/sup_logo_ableton.png" class="img-responsive" alt="">
         </a>
     </div>
-    <div class="col-sm-3">
+    <div class="column">
       <a href="http://www.abbeyroad.com" target="blank">
         <img src="/assets/img/sup_logo_abbey_road.png" class="img-responsive" alt="">
         </a>
     </div>
-    <div class="col-sm-3">
+    <div class="column">
       <a href="http://samplecount.com" target="blank">
         <img src="/assets/img/sup_logo_samplecount.png" class="img-responsive" alt="">
         </a>
     </div>
-    <div class="col-sm-3">
+    <div class="column">
       <a href="http://genesis-acoustics.com/en/" target="blank">
         <img src="/assets/img/sup_logo_genesis.png" class="img-responsive" alt="">
         </a>
     </div>
-    <div class="col-sm-3">
+    <div class="column">
       <a href="http://www.oerc.ox.ac.uk" target="blank">
         <img src="/assets/img/sup_logo_oxford.png" class="img-responsive" alt="">
         </a>
     </div>
-    <div class="col-sm-3">
+    <div class="column">
       <a href="https://creativecommons.org" target="blank">
         <img src="/assets/img/sup_logo_cc.png" class="img-responsive" alt="">
         </a>
     </div>
-    <div class="col-sm-3">
+    <div class="column">
       <a href="http://www.europeanasounds.eu" target="blank">
         <img src="/assets/img/sup_logo_europeana_sounds.png" class="img-responsive" alt="">
         </a>
     </div>
-    <div class="col-sm-3">
+    <div class="column">
       <a href="http://www.bl.uk" target="blank">
         <img src="/assets/img/sup_logo_bl.png" class="img-responsive" alt="">
         </a>
     </div>
-    <div class="col-sm-3">
+    <div class="column">
       <a href="https://looplabs.com" target="blank">
         <img src="/assets/img/sup_logo_looplabs.png" class="img-responsive" alt="">
         </a>
     </div>
-    <div class="col-sm-3">
+    <div class="column">
       <a href="https://acoustica.com" target="blank">
         <img src="/assets/img/sup_acoustica.png" class="img-responsive" alt="">
         </a>
     </div>
-    <div class="col-sm-3">
+    <div class="column">
       <a href="http://www.filmuniversitaet.de" target="blank">
         <img src="/assets/img/sup_logo_filmuni.png" class="img-responsive" alt="">
         </a>
     </div>
 </div>
 
-## Get Involved!
+# Get Involved!
 
 The aim of the <b>Audio Commons Initiative</b> is, starting from the project consortium, engage as many stakeholders as possible, involving them in the definition, development and expansion of the ecosystem. 
 We expect that creative industries will engage with the initiative and that the ecosystem will attract new stakeholders, making the initiative wider and ultimately contributing in making Creative Commons audio accessible to everyone and reusable everywhere.

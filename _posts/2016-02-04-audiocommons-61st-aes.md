@@ -1,7 +1,12 @@
 ---
 layout: post
+current: post
+#cover: assets/img/cover_sonarplusd.jpg
+navigation: True
 title:  "AudioCommons publication at AES 61st Conference on Audio for Games"
-#author: Author Name
+class: post-template
+subclass: 'post'
+tags: news
 ---
 
 The first publication of the AudioCommons project will be presented next Thursday February 11th at the [AES 61st Conference on Audio for Games](http://www.audioforgames.net/2016/).

@@ -1,3 +1,14 @@
+---
+layout: page
+current: about
+id: about
+title: About
+navigation: true
+class: page-template
+subclass: 'post page'
+---
+
+
 # The Audio Commons Initiative
 
 The **Audio Commons Initiative** aims at *bringing Creative Commons audio content to the creative industries*. But what does this mean?
@@ -15,7 +26,7 @@ The Audio Commons consortium is formed by leading research institutes in sound a
 Do you want to be updated on the progress of the initiative? Please feel free to [**subscribe to our mailing list**](https://groups.google.com/a/llista.upf.edu/forum/#!forum/audiocommons-friends) or follow us on Twitter at [**@AudioCommons**](https://twitter.com/AudioCommons).
 
 
-## The Audio Commons Ecosystem
+# The Audio Commons Ecosystem
 
 We envision a technology supported ecosystem of content, users and tools that should facilitate the reuse of Creative Commons audio content in the professional sector and, by extension, in the independent or non-professional sectors too. We call this the **Audio Commons Ecosystem** (or **ACE**).
 In short, the Audio Commons Ecosystem will allow content creators to expose their Creative Commons audio content to content users in the creative industries, and provide ways for its seamless integration in creative workflows. The figure below shows a conceptual diagram of the different components that will be interconnected in our vision of the ACE.
@@ -28,9 +39,9 @@ Furthermore, because of the nature of Creative Commons licenses, content users w
 The procedures for publishing and consuming content, as well as the tools for annotating content and the ontology and API specifications, will be **open and made available** to the public and to potential new actors willing to join the ecosystem.
 
 The technologies needed to support this ecosystem will be developed within the AudioCommons project, including some embeddable tools developed by industrial partners of the [consortium](/team). However, most of the components to support such an ecosystem do in fact already exist in a form or another. There already exist sound sharing platforms such as [Jamendo](www.jamendo.com), [Freesound](www.freesound.org), [cc-Mixter](http://www.ccmixter.org) (potential Audio Commons content providers) and others that host Creative Commons audio content and that have APIs through which it can be retrieved by third-party applications. There exist a number of tools for annotating audio content (some supported by the members of the consortium), and there exist some tools for the creative industries which integrate Creative Commons content from online platforms such as [Ardour](https://ardour.org), a digital audio workstation which can directly retrieve content from Freesound. The ecosystem that we want to support will therefore be rooted in existing and successful technologies.
-     
 
-## Research Topics
+
+# Research Topics
 
 In order to make Creative Commons audio content reusable in the creative industries there are some clearly defined issues that can be faced through the research and development of new technologies and improvement of existing ones. The Audio Commons Initiative, as a supported research and innovation action, will devote a special emphasis on researching about the following topics:
 
@@ -41,7 +52,7 @@ In order to make Creative Commons audio content reusable in the creative industr
   * **Semantic description of audio content**: we will work on improving the state-of-the-art in sound and music description and semantic representation technologies. We will focus our research on aspects that have been usually overlooked in existing literature (such as the development of descriptors targeted to short music samples). Also, we will stress the development of reliable high-level semantic descriptors with the use of bigger and crowd-sourced datasets. We will on the one side focus on the description of music content (i.e. music pieces and music samples), and on the other side focus on the description of non-musical content such as sound effects.
 
 
-## Funding
+# Funding
 
 The Audio Commons Initiative is funded by the European Commission through the [Horizon 2020](http://ec.europa.eu/programmes/horizon2020/) programme, **research and innovation grant 688382**.
 

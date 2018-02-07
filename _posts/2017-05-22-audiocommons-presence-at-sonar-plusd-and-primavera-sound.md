@@ -1,7 +1,12 @@
 ---
 layout: post
+current: post
+cover: assets/img/cover_sonarplusd.jpg
+navigation: True
 title:  "Audio Commons @ Sónar +D and Primavera Pro"
-#author: Author Name
+class: post-template
+subclass: 'post'
+tags: news
 ---
 
 In June 2017, the Audio Commons Initiative will be present at **[Sónar](https://sonar.es)** and **[Primavera Sound](http://primaverasound.es)** music festivals in Barcelona. Participation at Sonar will be in the context of **[Sónar +D](https://sonarplusd.com)**, which is an international conference about creativity, technology, and cultural industries that happens inside Sónar. Participation at Primavera Sound will be in the context of **[Primavera Pro](https://pro.primaverasound.com)**, which is a meeting point for professionals of the music industry which happens during the days of Primavera Sound. In particular, the Audio Commons Initiative will participate in the following activities:

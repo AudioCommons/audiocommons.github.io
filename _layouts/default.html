@@ -1,9 +1,129 @@
 <!DOCTYPE html>
 <html>
+<head>
+
+    <!-- Document Settings -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- Base Meta -->
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/favicon-194x194.png" sizes="194x194">
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#1e5055">
+    <meta name="apple-mobile-web-app-title" content="Audio Commons">
+    <meta name="application-name" content="Audio Commons">
+    <meta name="msapplication-TileColor" content="#1e5055">
+    <meta name="msapplication-TileImage" content="/mstile-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <title>{% if page.title %}Audio Commons - {{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="HandheldFriendly" content="True" />
+
+    <!-- Custom Fonts -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link href='https://fonts.googleapis.com/css?family=Rajdhani:400,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto:300,500' rel='stylesheet' type='text/css'>
+    
+    <!-- Styles'n'Scripts -->
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}assets/built/screen.css" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}assets/built/screen.edited.css" />
+    <!-- highlight.js -->
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css">
+    <style>.hljs { background: none; }</style>
+
+
+    <!-- This tag outputs SEO meta+structured data and other important settings -->
     {% include head.html %}
-    <body id="page-top" class="index">
-        {% include header.html %}
+
+</head>
+<body class="{% if paginator.page > 1 %}paged archive-template{% elsif page.class %}{{ page.class }}{% else %}home-template{% endif %}">
+    <div class="site-wrapper">
+        <!-- All the main content gets inserted here, index.hbs, post.hbs, etc -->
         {{ content }}
-        {% include footer.html %}
-    </body>
+
+        <!-- Previous/next page links - displayed on every page -->
+        {% if paginator.total_posts > site.paginate %}
+            {% if page.class == 'home-template' %}
+                {% include post_pagination.html %}
+            {% elsif page.class == 'page-template' %}
+                {% include post_pagination.html %}
+            {% elsif page.class == 'author-template' %}
+                {% include author_pagination.html %}
+            {% elsif page.class == 'tag-template' %}
+                {% include tag_pagination.html %}
+            {% else %}
+                {% include post_pagination.html %}
+            {% endif %}
+        {% endif %}
+
+        <!-- The footer at the very bottom of the screen -->
+        <footer class="site-footer outer">
+            <div class="site-footer-content inner">
+                <section class="copyright">
+                    Site powered by <a href="https://jekyllrb.com/">Jekyll</a> &
+                    <a href="https://pages.github.com/" target="_blank" rel="noopener">GitHub Pages</a>, theme adapted from
+                    <a href="https://github.com/myJekyll/jasper2" target="_blank" rel="noopener">Jasper2</a>.
+                    <br>Cover image by <a href="https://www.flickr.com/photos/john/3305527468/" target="blank">John Watson in Flickr</a>.
+                </section>
+                <nav class="site-footer-nav">
+                    {% if site.twitter %}<a href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener">Follow us on twitter</a>{% endif %}
+                    <a href="https://groups.google.com/a/llista.upf.edu/forum/#!forum/audiocommons-friends" target="_blank" rel="noopener">Subscribe to our mailing list</a>
+                </nav>
+            </div>
+        </footer>
+
+    </div>
+
+    <!-- highlight.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.10.0/components/prism-abap.min.js"></script>
+    <script>$(document).ready(function() {
+      $('pre code').each(function(i, block) {
+        hljs.highlightBlock(block);
+      });
+    });</script>
+
+    <!-- jQuery + Fitvids, which makes all video embeds responsive -->
+    <script
+        src="https://code.jquery.com/jquery-3.2.1.min.js"
+        integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        crossorigin="anonymous">
+    </script>
+    <script type="text/javascript" src="{{ site.baseurl }}assets/js/jquery.fitvids.js"></script>
+
+    {% if paginator.total_pages > site.paginate %}
+    <script>
+        var maxPages = parseInt('{{ paginator.total_pages }}');
+    </script>
+    <script src="{{ site.baseurl }}assets/js/infinitescroll.js"></script>
+    {% endif %}
+
+
+    <!-- Add Google Analytics  -->
+    {% include analytics.html %}
+
+    <!-- The #block helper will pull in data from the #contentFor other template files. In this case, there's some JavaScript which we only want to use in post.hbs, but it needs to be included down here, after jQuery has already loaded. -->
+    {% if page.class == "post-template" %}
+        {% include post-scripts.html %}
+    {% elsif page.class == "page-template" %}
+        {% include page-scripts.html %}
+    {% endif %}
+
+    <!-- Ghost outputs important scripts and data with this tag - it should always be the very last thing before the closing body tag -->
+    <!-- ghost_foot -->
+
+</body>
 </html>

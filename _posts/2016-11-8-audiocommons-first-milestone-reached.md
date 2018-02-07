@@ -1,7 +1,12 @@
 ---
 layout: post
+current: post
+#cover: assets/img/cover_sonarplusd.jpg
+navigation: True
 title:  "We have reached our first milestone!"
-#author: Author Name
+class: post-template
+subclass: 'post'
+tags: news
 ---
 
 We are happy to announce that after 9 months since the start of the AudioCommons project **we have reached, on due time, our first milestone**! In the following paragraphs we briefly summarise the work that we've carried out in different aspects of the project. Most of the documents that are produced in the project as well as **scientific publications** and other kinds of relevant material can be found in the [materials section](http://www.audiocommons.org/materials/) of our website. A broader introduction to the Audio Commons initiative can be found in our [position paper](http://www.audiocommons.org/assets/files/audiocommons_aes_2016.pdf).
