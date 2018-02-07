@@ -7,6 +7,7 @@ title:  "Second milestone: Audio Commons Ecosystem prototype"
 class: post-template
 subclass: 'post'
 tags: news
+cover: assets/img/cover_milestones.png
 ---
 
 In April 2017 AudioCommons has reached it's second milestone, which consists in the deployment of a **working prototype of the Audio Commons Ecosystem** (ACE). Even though we have not made this prototype public yet (there are still some things that must be improved before making it public), we have connected several pieces of technology to provide a first deployment of the ecosystem which allows the easy consumption of Audio Commons content from **Freesound**, **Jamendo** and **Europeana** in third party applications using the **Audio Commons API**. In the following paragraphs we briefly summarise the work that we've carried out in different aspects of the project and relate to this second milestone. Most of the documents that are produced in the project as well as scientific publications and other kinds of relevant material can be found in the [materials section](http://www.audiocommons.org/materials/) of our website. A broader introduction to the Audio Commons initiative can be found in our [position paper](http://www.audiocommons.org/assets/files/audiocommons_aes_2016.pdf).
