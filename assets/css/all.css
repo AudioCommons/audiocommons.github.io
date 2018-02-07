@@ -3036,15 +3036,16 @@ production stylesheet in assets/built/screen.css
     position: relative;
     width: 80%;
     max-width: 800px;
-    margin: 4rem auto;
+    margin: 3em auto;
+    margin-top:0px;
     font-family: 'Rajdhani', sans-serif;
-    font-size: 1.3rem;
-    color: #9EABB3;
+    font-size: 1.8rem;
+    color: #777;
     text-align: center;
 }
 
 .pagination a {
-    color: #991933;
+    color: white;
     transition: all 0.2s ease;
 }
 
@@ -3054,8 +3055,8 @@ production stylesheet in assets/built/screen.css
 .newer-posts {
     position: absolute;
     display: inline-block;
-    padding: 0 15px;
-    border: #bfc8cd 1px solid;
+    padding: 5px 15px;
+    background-color: #1E5055;
     text-decoration: none;
     border-radius: 4px;
     transition: border 0.3s ease;
@@ -3077,10 +3078,16 @@ production stylesheet in assets/built/screen.css
 
 .older-posts:hover,
 .newer-posts:hover {
-    color: #991933;
-    border-color: #98a0a4;
+    color: white;
 }
 
+@media (max-width: 800px) {  /* Responsive layout - makes a two column-layout instead of four columns */
+  .page-number {
+    display: none;
+  }
+}
+
+/*
 .extra-pagination {
     display: none;
     border-bottom: #EBF2F6 1px solid;
@@ -3104,30 +3111,36 @@ production stylesheet in assets/built/screen.css
 .extra-pagination .pagination {
     width: auto;
 }
+*/
 
 /* On page2+ make all the headers smaller */
 
+/*
 .paged .main-header {
     max-height: 30vh;
-}
+}*/
+
 
 /* On page2+ show extra pagination controls at the top of post list */
-
+/*
 .paged .extra-pagination {
     display: block;
 }
+*/
 
 /* Every post, on every page, gets this style on its <article> tag */
 
+/*
 .pagination {
     padding-top: 4rem;
     border-top: #bfc8cd 1px solid;
     word-wrap: break-word;
 }
+*/
 
 /* Add a little circle in the middle of the border-bottom on our .post
    just for the lolz and stylepoints. */
-
+/*
 .pagination:before {
     display: block;
     content: "";
@@ -3141,4 +3154,4 @@ production stylesheet in assets/built/screen.css
     background: #f4f8fb;
     border-radius: 100%;
     box-shadow: #f4f8fb 0 0 0 5px;
-}
+}*/

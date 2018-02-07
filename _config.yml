@@ -1,7 +1,7 @@
 # Jekyll configuration
 markdown: kramdown
 highlighter: rouge
-paginate: 100 # it will paginate after this number
+paginate: 9 # it will paginate after this number
 language: 'en-uk'
 collections:
 - materials

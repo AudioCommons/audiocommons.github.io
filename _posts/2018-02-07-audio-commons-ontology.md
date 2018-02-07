@@ -4,9 +4,9 @@ current: post
 navigation: True
 class: post-template
 subclass: 'post'
-cover: assets/img/cover_api2.png
-title:  "Audio Commons API"
+cover: assets/img/cover_ontology.png
+title:  "Audio Commons Ontology"
 tags: tools
 ---
 
-Work in progress... this post will include information about the Audio Commons API.
+Work in progress... this post will include information about the Audio Commons Ontology.
