@@ -3,7 +3,7 @@ Website of the Audio Commons Initiative/AudioCommons project
 
 The Audio Commons website is hosted as a static page in Github Pages, and is built using the [Jekyll framework](http://jekyllrb.com).
 To edit the site you have to contribute your changes (e.g., news posts and materials) to this source code repository. 
-After your changes are committed and merged to the master branch, Github will **automatically rebuild** the static site and make it instantly available to the public.
+After your changes are committed and merged to the master branch, **Travis-CI** will build the static site and push it back to the repository so it is available to the public.
 Note that editing existing contents and adding new contents can be all done directly from the Github web interface.
 It is therefore not strictly needed to clone the repository and install the required software to edit the site locally. Instructions for setting up a local copy of a Github Pages site can be [found here](https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/).
 
@@ -15,12 +15,13 @@ The content of the site however (i.e., entries in **News** and  **Materials** se
 
 ## Instructions for contributing to the Audio Commons site
 
-* [Posting in the "news" section](#posting-in-the-news-section)
+* [Posting in the "home" section](#posting-in-the-home-section)
+* [Posting in the "tools" section](#posting-in-the-tools-section)
 * [Posting in the "materials" section](#posting-in-the-materials-section)
   * [Hosting downloadable files in the Audio Commons site](#hosting-downloadable-files-in-the-audio-commons-site)
 * [Other contributions](#other-contributions)
 
-### Posting in the "news" section
+### Posting in the "home" section
 
 You can add a news post by creating a file in the [_posts](https://github.com/AudioCommons/audiocommons.github.io/tree/master/_posts) folder of this repository.
 Note that you can directly create the file from the Github web interface by navigating to the [_posts](https://github.com/AudioCommons/audiocommons.github.io/tree/master/_posts) folder and clicking on the **New file** button.
@@ -33,17 +34,44 @@ Required structure of the markdown file for a news post:
 ```markdown
 ---
 layout: post
+current: post
+class: post-template
+subclass: 'post'
+navigation: True
+#cover: assets/img/image.jpg # -> optional, if set an image will be shown with the entry
 title:  "Title of the post"
-#author: Author Name # -> optional, remove the '#' character at the begginning of the line if you want to include the author name
+tags: news
 ---
 
 Add the post body here using markdown syntax.
 ```
 
-Here is an example of an [existing news post](https://raw.githubusercontent.com/AudioCommons/audiocommons.github.io/master/_posts/2016-02-04-audiocommons-61st-aes.md).
+Here is an example of an [existing news post](https://raw.githubusercontent.com/AudioCommons/audiocommons.github.io/master/_posts/2017-05-05-audiocommons-second-milestone-reached.md).
 Check [Github's markdown syntax guide](https://guides.github.com/features/mastering-markdown/) for examples on how to format text with markdown.
 
 Existing news entries can also be easily edited by navigating to the file with the Github web interface and clicking on **Edit this file** (i.e., the icon with a pencil). When changes are committed to the `master` branch the post will be automatically updated on the site.
+
+
+### Posting in the "tools" section
+
+To post in the tools section you have to follow the same procedure as for [posting in the "home" section](#posting-in-the-news-section), but instead of setting the tag `news` you'll have to set the tag `tools`. There fore, your markdown foreground should look like:
+
+```markdown
+---
+layout: post
+current: post
+class: post-template
+subclass: 'post'
+navigation: True
+#cover: assets/img/image.jpg # -> optional, if set an image will be shown with the entry
+title:  "Title of the post"
+tags: tools # <- this is the bit that changed!
+---
+
+Add the post body here using markdown syntax.
+```
+
+Note that entries in the tools section will also appear in the home entry.
 
 
 ### Posting in the "materials" section
