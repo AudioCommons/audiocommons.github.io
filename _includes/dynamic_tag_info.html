@@ -2,6 +2,7 @@
 {% for tag in site.data.tags %}
     {% if page.url contains tag[1].name %}
         {% assign cover = tag[1].cover %}
+        {% assign tag_display_name = tag[1].display_name %}
         {% assign tag_description = tag[1].description %}
     {% endif %}
 {% endfor %}

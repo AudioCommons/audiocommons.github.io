@@ -2,10 +2,12 @@
 layout: page
 current: about
 id: about
-title: About
+title: "About"
+description: "All about the audio commons initiative"
 navigation: true
 class: page-template
 subclass: 'post page'
+cover: assets/img/header_background_green.jpg
 ---
 
 

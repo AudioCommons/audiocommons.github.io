@@ -1,8 +1,10 @@
-getting-started:
-  name: getting-started
-  description: Audio Commons tools that can be used
-  cover: False
+tools:
+  name: tools
+  display_name: Tools and Resources
+  description: Tools for connecting to the Audio Commons Ecosystem
+  cover: assets/img/header_background_green.jpg
 news:
   name: news
+  display_name: News
   description: News entries from the Audio Commons world
-  cover: False
+  cover: assets/img/header_background_green.jpg

@@ -2,10 +2,12 @@
 layout: page
 current: team
 id: team
-title: Team
+title: "Team"
+description: "The Audio Commons consortium and supporters"
 navigation: true
 class: page-template
 subclass: 'post page'
+cover: assets/img/header_background_green.jpg
 ---
 
 # Consortium

@@ -18,7 +18,7 @@ logo: 'assets/images/ghost.png'
     <div class="inner">
         {% include site-nav.html %}
         <div class="site-header-content">
-            <h1 class="site-title">{{ page.tag }}</h1>
+            <h1 class="site-title">{% if tag_display_name %}{{ tag_display_name }}{% else %}{{ page.tag }}{% endif %}</h1>
             <h2 class="site-description">
                 {% if tag_description %}
                     {{ tag_description }}

@@ -10,9 +10,17 @@ disqus: false
 into the {body} of the default.hbs template -->
 
 <!-- The big featured header, it uses blog cover image as a BG if available -->
-<header class="site-header outer">
+<header class="site-header outer {% if page.cover %}" style="background-image: url({{ site.baseurl }}{{ page.cover }}) {% else %}no-cover{% endif %}">
     <div class="inner">
         {% include site-nav.html %}
+        <div class="site-header-content-page">
+            <h1 class="site-title-page">{{ page.title }}</h1>
+            <h2 class="site-description">
+                {% if page.description %}
+                    {{ page.description }}
+                {% endif %}
+            </h2>
+        </div>
     </div>
 </header>
 
@@ -20,23 +28,13 @@ into the {body} of the default.hbs template -->
 <!-- #post -->
 
 <main id="site-main" class="site-main outer" role="main">
+    <br>
     <div class="inner">
 
-        <article class="post-full {{ page.subclass }} {% unless page.cover %}no-image{% endunless %}">
-
-            <header class="post-full-header">
-                <h1 class="post-full-title">{{ page.title }}</h1>
-            </header>
-
-            {% if page.cover %}
-            <figure class="post-full-image" style="background-image: url({{ site.baseurl }}{{ page.cover }})">
-            </figure>
-            {% endif %}
-
+        <article class="post-full {{ page.subclass }} no-image">
             <section class="post-full-content">
                 {{ content }}
             </section>
-
         </article>
 
     </div>

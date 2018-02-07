@@ -2,10 +2,12 @@
 layout: page
 current: materials
 id: materials
-title: Materials
+title: "Materials"
+description: "A collection of documents, publications and other relevant resources about Audio Commons"
 navigation: true
 class: page-template
 subclass: 'post page'
+cover: assets/img/header_background_green.jpg
 ---
 
 
