@@ -17,7 +17,7 @@ logo: 'assets/images/ghost.png'
 <header class="site-header outer {% if cover or page.cover %}" style="background-image: url({{ site.baseurl }}{% if cover %}{{ cover }}{% else %}{{ page.cover }}{% endif%}) {% else %}no-cover{% endif %}">
     <div class="inner">
         {% include site-nav.html %}
-        <div class="site-header-content">
+        <div class="site-header-content {% if page.current != 'home' %}small-header-padding-tag{% endif %}">
             <h1 class="site-title">{% if tag_display_name %}{{ tag_display_name }}{% else %}{{ page.tag }}{% endif %}</h1>
             <h2 class="site-description">
                 {% if tag_description %}
@@ -34,7 +34,7 @@ logo: 'assets/images/ghost.png'
 <!-- The main content area -->
 <main id="site-main" class="site-main outer" role="main">
     <div class="inner">
-        <div class="post-feed">
+        <div class="post-feed post-feed-tag">
             <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
             {%  include post-card.html %}
         </div>

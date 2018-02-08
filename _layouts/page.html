@@ -13,7 +13,7 @@ into the {body} of the default.hbs template -->
 <header class="site-header outer {% if page.cover %}" style="background-image: url({{ site.baseurl }}{{ page.cover }}) {% else %}no-cover{% endif %}">
     <div class="inner">
         {% include site-nav.html %}
-        <div class="site-header-content-page">
+        <div class="site-header-content-page {% if page.current != 'home' %}small-header-padding{% endif %}">
             <h1 class="site-title-page">{{ page.title }}</h1>
             <h2 class="site-description">
                 {% if page.description %}
@@ -27,12 +27,12 @@ into the {body} of the default.hbs template -->
 <!-- Everything inside the #post tags pulls data from the post -->
 <!-- #post -->
 
-<main id="site-main" class="site-main outer" role="main">
+<main id="site-main" class="site-main outer background-inherit" role="main">
     <br>
     <div class="inner">
 
-        <article class="post-full {{ page.subclass }} no-image">
-            <section class="post-full-content">
+        <article class="post-full {{ page.subclass }} no-image page-content-up">
+            <section class="post-full-content" style="padding-top: 20px!important; padding-bottom: 30px!important;border-radius: 5px;">
                 {{ content }}
             </section>
         </article>

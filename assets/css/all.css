@@ -667,6 +667,16 @@ body {
         flex-grow: 1;
 }
 
+.background-inherit {
+    background: #fff!important;
+}
+
+@media (min-width: 795px) {
+    .background-inherit {
+        background: inherit!important;
+    }
+}
+
 
 /* Full width page blocks */
 
@@ -773,7 +783,7 @@ body {
         justify-content: center;
     -ms-flex-align: center;
         align-items: center;
-    padding: 10vw 4vw;
+    padding: 7vw 4vw;
     min-height: 200px;
     max-height: 450px;
     text-align: center;
@@ -804,6 +814,15 @@ body {
     min-height: 200px;
     max-height: 450px;
     text-align: center;
+}
+
+.small-header-padding {
+    padding: 0px;
+}
+
+.small-header-padding-tag {
+    padding: 0px;
+    /*margin-bottom: 60px;*/
 }
 
 .site-title-page {
@@ -1080,6 +1099,11 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
         flex-wrap: wrap;
     margin: 0 -20px;
     padding: 40px 0 0 0;
+    margin-top: -70px;
+}
+
+.post-feed-tag {
+    margin-top: -30px!important;
 }
 
 
@@ -1284,6 +1308,16 @@ The first (most recent) post in the list is styled to be bigger than the others 
     z-index: 50;
 }
 
+.page-content-up {
+    margin-top: -20px;
+}
+
+@media (min-width: 795px) {
+    .background-inherit {
+        margin-top: -35px;
+    }
+}
+
 
 /* ^ Required to make .post-full-content:before/after z-index stacking work */
 
@@ -1374,7 +1408,6 @@ The first (most recent) post in the list is styled to be bigger than the others 
     line-height: 1.6em;
     background: #fff;
 }
-
 
 @media (max-width: 1170px) {
     .post-full-content {
