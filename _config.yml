@@ -11,7 +11,7 @@ title: Audio Commons
 email: audiocommons@upf.edu
 description: > # this means to ignore newlines until "baseurl:"
   Website for the Audio Commons Initiative.
-baseurl: "http://audiocommons.org/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://audiocommons.org" # the base hostname & protocol for your site
 twitter_username: AudioCommons
 github_username:  audiocommons
