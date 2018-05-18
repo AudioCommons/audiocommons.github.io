@@ -1153,7 +1153,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 .post-card-content-link {
     position: relative;
     display: block;
-    padding: 25px 25px 0;
+    padding: 25px 25px 0!important;
     color: #15171A;
 }
 
