@@ -3,7 +3,7 @@ layout: page
 current: about
 id: about
 title: "About"
-description: "All about the audio commons initiative"
+description: "All about the Audio Commons initiative"
 navigation: true
 class: page-template
 subclass: 'post page'
