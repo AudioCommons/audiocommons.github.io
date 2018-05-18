@@ -3,7 +3,7 @@ Website of the Audio Commons Initiative/AudioCommons project
 
 The Audio Commons website is hosted as a static page in Github Pages, and is built using the [Jekyll framework](http://jekyllrb.com).
 To edit the site you have to contribute your changes (e.g., news posts and materials) to this source code repository. 
-After your changes are committed and merged to the master branch, **Travis-CI** will build the static site and push it back to the repository so it is available to the public.
+After your changes are committed and merged to the master branch, Github will **automatically rebuild** the static site and make it instantly available to the public.
 Note that editing existing contents and adding new contents can be all done directly from the Github web interface.
 It is therefore not strictly needed to clone the repository and install the required software to edit the site locally. Instructions for setting up a local copy of a Github Pages site can be [found here](https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/).
 

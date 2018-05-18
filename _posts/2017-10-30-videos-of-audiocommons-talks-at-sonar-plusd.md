@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-#cover: assets/images/bus.jpg
+cover: assets/img/sonardplusd_trees.jpg
 navigation: True
 title:  "Videos of Audio Commons talks @ Sónar +D available"
 class: post-template
