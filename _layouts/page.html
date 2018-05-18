@@ -10,7 +10,7 @@ disqus: false
 into the {body} of the default.hbs template -->
 
 <!-- The big featured header, it uses blog cover image as a BG if available -->
-<header class="site-header outer {% if page.cover %}" style="background-image: url({{ site.baseurl }}{{ page.cover }}) {% else %}no-cover{% endif %}">
+<header class="site-header outer {% if page.cover %}" style="background-image: url({{ site.baseurl2 }}{{ page.cover }}) {% else %}no-cover{% endif %}">
     <div class="inner">
         {% include site-nav.html %}
         <div class="site-header-content-page {% if page.current != 'home' %}small-header-padding{% endif %}">
