@@ -5,11 +5,11 @@ navigation: True
 class: post-template
 subclass: 'post'
 tags: news
-title:  "Wallifornia Music Tech '18: Panel and Hackathon"
+title:  "Wallifornia MusicTech 2018: Panel and Hackathon"
 author: Anna Xambó
 ---
 
-This week, I headed to the [Wallifornia MusicTech Hackathon 2018]() as a panel speaker and mentor. I was very excited about going to Liège in Belgium, taking the Eurostar train from London, and discover more about the [Wallifornia MusicTech](http://walliforniamusictech.com/) event. I was curious about this event with a witty name of the California of Wallonia (the French part of Belgium). I found the two days refreshing and inspiring, which were divided into (1) **a panel of discussion with start-ups** about innovation in music tech on the first day, and (2) **mentoring hackers** during a music tech hackathon during the second day. Both activities were held in the headquarters of [LeanSquare](http://www.leansquare.be/en/), a venture capital fund aiming to invest in start-ups of the new economy.
+This week, I headed to the [Wallifornia MusicTech 2018](http://walliforniamusictech.com/) as a panel speaker and mentor. I was very excited about going to Liège in Belgium, taking the Eurostar train from London, and discover more about the [Wallifornia MusicTech](http://walliforniamusictech.com/) event. I was curious about this event with a witty name of the California of Wallonia (the French part of Belgium). I found the two days refreshing and inspiring, which were divided into (1) **a panel of discussion with start-ups** about innovation in music tech on the first day, and (2) **mentoring hackers** during a music tech hackathon during the second day. Both activities were held in the headquarters of [LeanSquare](http://www.leansquare.be/en/), a venture capital fund aiming to invest in start-ups of the new economy.
 
 The panel of discussion *The Disturbing Discussion About Innovation* involved industry and academia experts in a roundtable format: [Matthias Strobel](https://www.linkedin.com/in/matthiasstrobel/) (President MusicTech Germany), who moderated the panel, [Nicolas d'Alessandro](https://www.linkedin.com/in/kyojindo/) (co-founder at Hovertone), [Tom Mitchell](https://people.uwe.ac.uk/Person/TomMitchell) (AP Creative Technologies, UWE Bristol / Mi.mu Gloves), and myself (Centre for Digital Music, Queen Mary University of London). We shared our academic and industry work experience around innovation and music tech transfer. Matthias Strobel kicked off the discussion by presenting the panelists and showcasing the [Nagual Dance](http://nagualdance.com/en/), an interactive music experience based on body movement using the Kinect camera.
 
