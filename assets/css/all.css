@@ -3200,3 +3200,16 @@ production stylesheet in assets/built/screen.css
     border-radius: 100%;
     box-shadow: #f4f8fb 0 0 0 5px;
 }*/
+
+
+.highlight {
+    max-width: 65vw;
+    max-height: 600px;
+}
+
+@media (max-width: 500px) {
+    .highlight {
+        max-width: 90vw;
+    }
+}
+
