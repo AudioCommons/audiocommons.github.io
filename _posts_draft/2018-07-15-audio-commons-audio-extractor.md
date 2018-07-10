@@ -5,7 +5,7 @@ navigation: True
 class: post-template
 subclass: 'post'
 tags: news
-title:  "Audio Commons Audio Extractor"
+title:  "Audio Commons Audio Extractor: A Hands-on Tutorial"
 author: Frederic Font
 ---
 
