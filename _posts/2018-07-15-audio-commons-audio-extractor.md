@@ -285,10 +285,14 @@ These audio features are only computed when using the `-m` flag and include:
 
 ### Timbre models
 
-These audio features are only computed when using the `-t` flag and include:
+As described in [deliverable D5.2](https://www.audiocommons.org/assets/files/AC-WP5-SURREY-D5.2%20First%20prototype%20of%20timbral%20characterisation%20tools%20for%20semantically%20annotating%20non-musical%20content.pdf), a number of timbre models have been developed and are included in this tool. Timbre models estimate perceptual qualities of the sounds which tend to be quite subjective and ill-defined. These audio features are only computed when using the `-t` flag and include:
 
-- ```brightness```: TODO.
-- ```hardness```: TODO.
-- ```depth```: TODO.
-- ```roughness```: TODO.
+- ```brightness```: brightness of the analyzed audio in a scale from [0-100]. A *bright* sound is one that is clear/vibrant and/or contains significant high-pitched elements.
+- ```hardness```: hardness of the analyzed audio in a scale from [0-100]. A *hard* sound is one that conveys the sense of having been made (i) by something solid, firm or rigid; or (ii) with a great deal of force.
+- ```depth```: depth of the analyzed audio in a scale from [0-100]. A *deep* sound is one that conveys the sense of having been made far down below the surface of its source.
+- ```roughness```: roughness of the analyzed audio in an undetermined scale. A *rough* sound is one that has an uneven or irregular sonic texture.
+
+NOTE: in some occasions the features above can return values outside the specified ranges.
+
+
 
