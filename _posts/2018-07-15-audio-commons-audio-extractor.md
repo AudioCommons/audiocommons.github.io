@@ -98,84 +98,67 @@ Even though the analysis output that we are showing here is the simplified `JSON
         "ac": "https://w3id.org/ac-ontology/aco#",
         "afo": "https://w3id.org/afo/onto/1.1#",
         "afv": "https://w3id.org/afo/vocab/1.1#",
-        "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+        "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#",
+        "nfo": "http://www.semanticdesktop.org/ontologies/2007/03/22/nfo#"
     },
-    "@type": "ac:AnalysisOutput",
-    "ac:availableAs": {
-        "@type": "ac:AudioFile",
-        "ebucore:bitrate": 705600.0,
-        "ebucore:filesize": 815294,
-        "ebucore:hasCodec": "pcm_s16le"
+    "@type": "ac:AudioFile",
+    "ebucore:bitrate": 705600.0,
+    "ebucore:filesize": 529278,
+    "ebucore:hasCodec": {
+        "@type": "ebucore:AudioCodec",
+        "ebucore:codecId": "pcm_s16le"
     },
-    "ac:duration": 9.241541862487793,
-    "ac:publicationOf": {
-        "@type": "ac:DigitalSignal",
-        "ac:audio_md5": "2722ac23a142ce727e0642b0a63c7347",
-        "ac:channels": 1,
-        "ac:lossless": true,
-        "ac:samplerate": 44100.0,
-        "ac:signal_feature": [
-            {
-                "@type": "afv:Tempo",
-                "afo:confidence": 0.42026047706604003,
-                "afo:value": 84
-            },
-            {
-                "@type": "afv:TimbreRoughness",
-                "afo:value": 6.646583836789146
-            },
-            {
-                "@type": "afv:LogAttackTime",
-                "afo:value": 0.6950863599777222
-            },
-            {
-                "@type": "afv:Loop",
-                "afo:value": false
-            },
-            {
-                "@type": "afv:MIDINote",
-                "afo:confidence": 0.0,
-                "afo:value": 74
-            },
-            {
-                "@type": "afv:Pitch",
-                "afo:confidence": 0.0,
-                "afo:value": 608.390625
-            },
-            {
-                "@type": "afv:Loudness",
-                "afo:value": -28.64586639404297
-            },
-            {
-                "@type": "afv:Note",
-                "afo:confidence": 0.0,
-                "afo:value": "D5"
-            },
-            {
-                "@type": "afv:TemporalCentroid",
-                "afo:value": 0.5782503485679626
-            },
-            {
-                "@type": "afv:Key",
-                "afo:confidence": 0.5119080543518066,
-                "afo:value": "G# major"
-            },
-            {
-                "@type": "afv:TimbreBrightness",
-                "afo:confidence": 0.0,
-                "afo:value": 60.313207479409286
-            },
-            {
-                "@type": "afv:TimbreHardness",
-                "afo:value": 82.90738501480826
-            },
-            {
-                "@type": "afv:TimbreDepth",
-                "afo:value": 16.728879931862544
-            }
-        ]
+    "nfo:compressionType": "nfo:losslessCompressionType",
+    "ac:audioMd5": "8da67c9c2acbd13998c9002aa0f60466",
+    "ac:availableItemOf": {
+        "@type": "ac:AudioClip"
     },
-    "ac:single_event": false
+    "ac:signalAudioFeature": [
+        {
+            "@type": "afv:Loop",
+            "afo:value": true
+        },
+        {
+            "@type": "afv:Tempo",
+            "afo:confidence": 1.0,
+            "afo:value": 120
+        },
+        {
+            "@type": "afv:Key",
+            "afo:confidence": 0.2868785858154297,
+            "afo:value": "G# minor"
+        },
+        {
+            "@type": "afv:TemporalCentroid",
+            "afo:value": 0.5078766345977783
+        },
+        {
+            "@type": "afv:MIDINote",
+            "afo:confidence": 0.0,
+            "afo:value": 74
+        },
+        {
+            "@type": "afv:Pitch",
+            "afo:confidence": 0.0,
+            "afo:value": 592.681884765625
+        },
+        {
+            "@type": "afv:Loudness",
+            "afo:value": -28.207069396972656
+        },
+        {
+            "@type": "afv:Note",
+            "afo:confidence": 0.0,
+            "afo:value": "D5"
+        },
+        {
+            "@type": "afv:LogAttackTime",
+            "afo:value": 0.30115795135498047
+        }
+    ],
+    "ac:signalChannels": 1,
+    "ac:signalDuration": 6.0,
+    "ac:singalSamplerate": 44100.0
 }
 ```
 
