@@ -14,7 +14,7 @@ For this reason we designed a common data model for audio content, the
 [Audio Commons Ontology](https://w3id.org/ac-ontology/aco).
 This model has been published and documented and will soon be integrated in
 multiple tools of the [Audio Commons Ecosystem](https://www.audiocommons.org/about/index.html#the-audio-commons-ecosystem),  such as the Audio Commons Mediator, the tool that integrates some existing content
-repositories ([Jamendo](https://www.jamendo.com/), [Freesound](https://freesound.org/), and [Europeana](https://www.europeana.eu/)) offering a common web API.
+repositories ([Jamendo](https://www.jamendo.com/), [Freesound](https://freesound.org/), and [Europeana](https://www.europeana.eu/portal/en/)) offering a common web API.
 
 
 <a href="/assets/img/AC_Ontology.png" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;max-width:800px;" class="img-responsive" src="/assets/img/AC_Ontology.png" alt="ACE Ontology diagram.">
