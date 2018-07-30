@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: assets/img/Vinyls.jpg
+cover: assets/img/cover_Vinyls.jpg
 navigation: True
 class: post-template
 subclass: 'post'
@@ -9,15 +9,15 @@ title:  "Audio Commons Ontology"
 author: Miguel Ceriani
 ---
 
-The Audio Commons Initiative aims to foster creative use of audio content, through favouring interoperability between audio tools and content repositories.
+[The Audio Commons Initiative](https://www.audiocommons.org/about/index.html#the-audio-commons-initiative) aims to foster creative use of audio content, through favouring interoperability between audio tools and content repositories.
 For this reason we designed a common data model for audio content, the
 [Audio Commons Ontology](https://w3id.org/ac-ontology/aco).
 This model has been published and documented and will soon be integrated in
-multiple tools of the Audio Commons Ecosystem,  such as the Audio Commons Mediator, the tool that integrates some existing content
-repositories (Jamendo, Freesound, and Europeana) offering a common web API.
+multiple tools of the [Audio Commons Ecosystem](https://www.audiocommons.org/about/index.html#the-audio-commons-ecosystem),  such as the Audio Commons Mediator, the tool that integrates some existing content
+repositories ([Jamendo](https://www.jamendo.com/), [Freesound](https://freesound.org/), and [Europeana](https://www.europeana.eu/)) offering a common web API.
 
 
-<a href="/assets/img/cover_ontology.png" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;max-width:700px;" class="img-responsive" src="/assets/img/cover_ontology.png" alt="ACE Ontology diagram.">
+<a href="/assets/img/AC_Ontology.png" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;max-width:800px;" class="img-responsive" src="/assets/img/AC_Ontology.png" alt="ACE Ontology diagram.">
 </a>
 <p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 1. Diagram of the Audio Commons Ontology</em></p>
 
@@ -31,19 +31,17 @@ identify, describe, and classify them.
 It is formally described using
 the [Web Ontology Language (OWL)](http://www.w3.org/TR/2012/REC-owl2-syntax-20121211/)
 and documented
-for use in its web page (https://w3id.org/ac-ontology/aco).
+for use in its web page ([https://w3id.org/ac-ontology/aco](https://w3id.org/ac-ontology/aco)).
 
 The data model described by the Audio Commons Ontology is central to the
-Audio Commons Ecosystem and it is expected to be adopted by the services, tools,
-and agents that compose the system.
-The Audio Commons consortium is working on enhancing accordingly the existing
-tools and develop new tools.
-One of the most important tools that will be using the ontology is the Audio Commons Mediator, a piece of software that integrates three existing content
+Audio Commons Ecosystem and it is expected to be adopted by the services, tools, and agents that compose the system.
+The Audio Commons [consortium](https://www.audiocommons.org/team/) is working on enhancing the existing
+tools accordingly and develop new tools that will be using the ontology. One important example is the Audio Commons Mediator, a piece of software that integrates three existing content
 repositories (Jamendo, Freesound, and Europeana), offering a common web API to
 access them in order to look for audio content in any of the three.
-In the context of the mediator, the ontology will be used for the dual role of
-being 1. the common data model used for integration and 2. a way to express in
-the results rich data relationships that cannot be represented in the current version of the mediator.
+In the context of the mediator, the ontology will be used for the dual role of being: 
+1. the common data model used for integration;
+2. a way to express in the results rich data relationships that cannot be represented in the current version of the mediator.
 
 Furthermore, the Audio Commons Ontology aims to represent audio content and its categories and relationships beyond the Audio Commons Initiative.
 A scientific paper describing the ontology will be presented in October at the
