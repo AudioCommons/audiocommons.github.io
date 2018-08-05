@@ -51,7 +51,7 @@ Many thanks for your participation!
 The Audio Commons Team
 
 
-<a href="/favicon-194x194.png" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;max-width:700px;" class="img-responsive" src="/favicon-194x194.png" alt="AudioCommons logo.">
+<a href="/" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;max-width:700px;" class="img-responsive" src="/favicon-96x96.png" alt="AudioCommons logo.">
 </a>
 <p style="text-align:center; padding-top:0; font-size:85%"><em>audiocommons.org</em></p>
 
