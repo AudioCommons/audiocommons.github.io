@@ -23,7 +23,7 @@ Sound effects libraries currently rarely include information about the timbre of
 
 ## Which attributes to model?
 
-Our work in the AudioCommons project has examined what timbral attributes people use when searching for sounds - such as *hard*, *bright*, *deep*, *warm* [(Pearce et al., 2017)](https://www.audiocommons.org/2018/09/05/timbre-sound.html####References) - and has used that information to create consistent terms, and to determine which attributes users search for most frequently. Figure 1 shows how frequently common timbral descriptors were searched in freesound.org. For an interactive version of this, go to [http://www.iosr.uk/projects/AudioCommons/sunburst_freesound.php](http://www.iosr.uk/projects/AudioCommons/sunburst_freesound.php).
+Our work in the AudioCommons project has examined what timbral attributes people use when searching for sounds - such as *hard*, *bright*, *deep*, *warm* [(Pearce et al., 2017)](http://epubs.surrey.ac.uk/841960/)[1] - and has used that information to create consistent terms, and to determine which attributes users search for most frequently. Figure 1 shows how frequently common timbral descriptors were searched in freesound.org. For an interactive version of this, go to [http://www.iosr.uk/projects/AudioCommons/sunburst_freesound.php](http://www.iosr.uk/projects/AudioCommons/sunburst_freesound.php).
 
 <a href="/assets/img/diagram_timbral_searches.png" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;max-width:700px;" class="img-responsive" src="/assets/img/diagram_timbral_searches.png" alt="Timbral attribute search frequency on freesound.org.">
 </a>
@@ -59,4 +59,4 @@ Once the metadata from these timbral models has been fully integrated in to the 
 
 #### References
 
-[Pearce, A., Brookes, T., & Mason, R. (2017, June).](http://epubs.surrey.ac.uk/841960/) Timbral attributes for sound effect library searching. In *Audio Engineering Society Conference: 2017 AES International Conference on Semantic Audio.* Audio Engineering Society.
+[1] [Pearce, A., Brookes, T., & Mason, R. (2017, June).](http://epubs.surrey.ac.uk/841960/) Timbral attributes for sound effect library searching. In *Audio Engineering Society Conference: 2017 AES International Conference on Semantic Audio.* Audio Engineering Society.
