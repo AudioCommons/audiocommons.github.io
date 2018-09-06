@@ -52,9 +52,8 @@ The [Sound Map Visualizer](https://labs.freesound.org/apps/freesound-explorer.ht
 
 <iframe src="https://andyp103.github.io/SoundMapVisualiserDemo/" height="600" width="900"><a href="https://andyp103.github.io/SoundMapVisualiserDemo/">https://andyp103.github.io/SoundMapVisualiserDemo/</a></iframe>
 
-<p style="text-align:center; padding-top:0; font-size:85%"><em>Sound Map Visualiser Demo.</em></p>
 
-[Explore it full screen](https://andyp103.github.io/SoundMapVisualiserDemo/)
+Explore the Sound Map Visualiser Demo in full screen [here](https://andyp103.github.io/SoundMapVisualiserDemo/).
 
 
 Once the metadata from these timbral models has been fully integrated in to the [Audio Commons Ecosystem](https://www.audiocommons.org/about/index.html#the-audio-commons-ecosystem), users will be able to find only soft sounding snare samples, deep synth pads, or footsteps without reverb.
