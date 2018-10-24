@@ -84,7 +84,6 @@ You can find more information in this [blog post](https://www.audiocommons.org/2
 <p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 4. Freesound.org</em></p>
 
 
-
 Frederic Font explains in this [blog post](https://www.audiocommons.org/2018/07/15/audio-commons-audio-extractor.html) how to use the Audio Commons Audio Extractor with Freesound.
 
 
@@ -138,7 +137,7 @@ The results can be sorted according to different criteria and eventually the aud
 
 <p style="text-align:center; padding-top:0; font-size:85%"><em>MuSST Video Demonstrator</em></p>
 
-
+Explore MuSST [here](audiocommons.jamendo.com).
 
 
 
@@ -153,7 +152,7 @@ The results can be sorted according to different criteria and eventually the aud
 
 The collection of sounds can be saved as a url. For example, [try the collection shown in the image above](http://www.playsound.space/sounds=416784,391450,388236,129334,428759).
 
-Play with Paysound.space in full screen [here](http://playsound.space).
+Play with Paysound.space [here](http://playsound.space).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yv8T70rawzs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
