@@ -91,16 +91,15 @@ Frederic Font explains in this [blog post](https://www.audiocommons.org/2018/07/
 
 <!-- Freesound Explorer is a visual interface for exploring Freesound in a 2-dimensional space and create music at the same time :)
 
-<iframe src="https://labs.freesound.org/fse/" height="600" width="900"><a href="https://labs.freesound.org/fse/">https://labs.freesound.org/fse/</a></iframe>
-
 Using Freesound Explorer you can perform text-based queries in Freesound, and see the results arranged in a 2-dimensional space. A well known dimensionality reduction technique is used (tSNEJS) to learn a space from spectral audio features provided by Freesound. In this way, sounds are self-organised according to some sort of timbre similarity.
 
 Freesound Explorer is implemented as a web application which takes advantage of modern web technologies including the Web Audio API and the Web MIDI API. Freesound Explorer also uses a Python Flask backend for handling user accounts, but it can also be run statically without the backend (with reduced functionality and no user handling).
 
-https://labs.freesound.org/apps/freesound-explorer.html
+Explore Freesound Explorer [here](https://labs.freesound.org/fse/).
 
-https://labs.freesound.org/fse/ -->
+You can find more information in this [blog post](https://labs.freesound.org/apps/freesound-explorer.html).
 
+ -->
 
 
 
@@ -166,7 +165,10 @@ Read more information on Playsound at this [blog post](https://www.audiocommons.
 
 ## References
 
+
 Ceriani, M. & Fazekas, G. (2018) [Audio Commons ontology: a data model for an audio content ecosystem](https://qmro.qmul.ac.uk/xmlui/handle/123456789/43143). In Proceedings of the 17th International Semantic Web Conference (ISWC 2018).
+
+Font, F., & Bandiera G. (2017).  [Freesound Explorer: Make Music While Discovering Freesound!](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/26151/20.pdf?sequence=1). Web Audio Conference (WAC 2017).
 
 Pauwels, J., Fazekas, G., & Sandler, M. B. (2018). Recommending songs to music learners based on chord content. In Proceedings of the 2018 Joint Workshop on Machine Learning for Music.
 
