@@ -11,17 +11,16 @@ author: Alessia Milo
 
 On the 25th of October, some of the tools developed within the [Audio Commons Initiative](https://www.audiocommons.org/about/) will be presented at the event organised by [FAST IMPACT](http://www.semanticaudio.ac.uk/) at [Abbey Road Studios](https://www.abbeyroad.com/) for the [FAST Industry Day](http://www.semanticaudio.ac.uk/events/fast-industry-day/).
 
-The Audio Commons Ecosystem (ACE) refers to a series of technologies and actors involved in publishing and consuming Audio Commons content. The Audio Commons content (AC) refers to audio content released under Creative Commons licenses and enhanced with meaningful contextual information (e.g. annotations, license information) that enables its publication in the ACE.
+The Audio Commons Ecosystem (ACE) refers to a series of technologies and actors involved in publishing and consuming Audio Commons content. Audio Commons content (AC) refers to audio released under Creative Commons licenses and enhanced with meaningful contextual information (e.g. annotations, license information) that enables its publication in the ACE and facilitates its reuse.
 
-Below we present some tools for music production and discovery that have been developed and tested throughout our research.
+Several of our tools allow the navigation of vast catalogues of sound and music content which is facilitated by a common data model: the [Audio Commons ontology](https://www.audiocommons.org/2018/07/27/audio-commons-ontology.html). This is used to support a common Web Application Programming Interface for the ACE.
 
-
+In the following, we present some tools for music production and discovery that have been developed and tested through our research project.
 
 
 ## SampleSurfer
 
-SampleSurfer from [Waves Audio Ltd](https://www.waves.com/). provides an audio content search engine embedded in the digital audio workstation with instant listening capabilities, phrase looper, and transparent listing of licensing terms including Creative Commons content. With SampleSurfer users are able to efficiently share, use and manipulate sounds within their DAW.
-
+SampleSurfer from [Waves Audio Ltd.](https://www.waves.com/) provides an audio content search engine embedded in the digital audio workstation with instant listening capabilities and transparent listing of licensing terms including Creative Commons content. It also embeds tools for content manipulation and repurposing. With SampleSurfer users are able to efficiently share, use and manipulate sounds within their DAW.
 
 <a href="/assets/img/SampleSurfer.png" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;max-width:700px;" class="img-responsive" src="/assets/img/SampleSurfer.png" alt="SampleSurfer by Waves Ltd.">
 </a>
@@ -67,7 +66,7 @@ Identifying suitable sound effects for an audio project can be a difficult task 
 
 <p style="text-align:center; padding-top:0; font-size:85%"><em>SoundMapVisualiser Demo</em></p>
 
-Explore the Sound Map Visualiser Demo in full screen [here](https://andyp103.github.io/SoundMapVisualiserDemo/).
+Explore the Sound Map Visualiser Demo [here](https://andyp103.github.io/SoundMapVisualiserDemo/).
 
 You can find more information in this [blog post](https://www.audiocommons.org/2018/09/05/timbre-sound.html) by Andy Pearce.
 
@@ -121,7 +120,7 @@ https://labs.freesound.org/fse/ -->
 <p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 6. Jam wih Jamendo: song player</em></p>
 
 
-Play with Jam with Jamendo in full screen [here](http://eecs.qmul.ac.uk/~johan/jam-with-jamendo/).
+Play with Jam with Jamendo [here](http://eecs.qmul.ac.uk/~johan/jam-with-jamendo/).
 View more information on Jam with Jamendo [here](http://www.semanticaudio.ac.uk/demonstrators/jam-with-jamendo/).
 
 
@@ -167,14 +166,19 @@ Read more information on Playsound at this [blog post](https://www.audiocommons.
 
 ## References
 
+Ceriani, M. & Fazekas, G. (2018) [Audio Commons ontology: a data model for an audio content ecosystem](https://qmro.qmul.ac.uk/xmlui/handle/123456789/43143). In Proceedings of the 17th International Semantic Web Conference (ISWC 2018).
 
+Pauwels, J., Fazekas, G., & Sandler, M. B. (2018). Recommending songs to music learners based on chord content. In Proceedings of the 2018 Joint Workshop on Machine Learning for Music.
 
-Pauwels, J., Xambó, A., Roma, G., Barthet, M., & Fazekas, G. (2018). Exploring Real-time Visualisations to Support Chord Learning with a Large Music Collection. In Proceedings of the Web Audio Conference.
+Pauwels, J., Xambó, A., Roma, G., Barthet, M., & Fazekas, G. (2018). [Exploring Real-time Visualisations to Support Chord Learning with a Large Music Collection](http://annaxambo.me/pub/Pauwels_et_al_2018_Exploring_real-time_visualisations.pdf). In Proceedings of the Web Audio Conference.
 
-Pearce, A., Brookes, T., & Mason, R. (2017, June). Timbral attributes for sound effect library searching. In Audio Engineering Society Conference: 2017 AES International Conference on Semantic Audio. Audio Engineering Society.
+Pearce, A., Brookes, T., & Mason, R. (2017, June). [Timbral attributes for sound effect library searching](http://epubs.surrey.ac.uk/841960/). In Audio Engineering Society Conference: 2017 AES International Conference on Semantic Audio. Audio Engineering Society.
 
-Stolfi, A., Ceriani, M., Turchet, L., and Barthet, M. (2018a). Playsound.space: Inclusive Free Music
-Improvisations Using Audio Commons. In Proc. Int. Conf. on New Interfaces for Musical
-Expression.
+Stolfi, A., Ceriani, M., Turchet, L., & Barthet, M. (2018a). [Playsound.space: Inclusive Free Music
+Improvisations Using Audio Commons](http://www.nime.org/proceedings/2018/nime2018_paper0050.pdf). In Proceedings International Conference on New Interfaces for Musical Expression.
 
-Stolfi, A., Milo, A., Ceriani, and Barthet, M. (2018b). [Participatory musical improvisations with Playsound.space.](https://webaudioconf.com/papers/participatory-musical-improvisations-with-playsound-space.pdf) In Proc. Web Audio Conference 2018 Berlin
+Stolfi, A., Milo, A., Ceriani M., &  Barthet, M. (2018b). [Participatory musical improvisations with Playsound.space](https://webaudioconf.com/papers/participatory-musical-improvisations-with-playsound-space.pdf). In Proceedings of the Web Audio Conference.
+
+Stolfi, A., Milo, A., Viola F., Ceriani M., &  Barthet, M. (2018). Playsound.space: An Ubiquitous System in Progress. In Proceedings of EIGHTH Workshop on Ubiquitous Music (VIII UbiMus).
+
+Xambó, A., Pauwels, J., Roma, G., Barthet, M., &  Fazekas, G. (2018). [Jam with jamendo: Querying a large music collection by chords from a learner’s perspective](https://www.researchgate.net/publication/327607463_Jam_with_Jamendo_Querying_a_Large_Music_Collection_by_Chords_from_a_Learner's_Perspective). In Proceedings of the 13th International Audio Mostly Conference.
