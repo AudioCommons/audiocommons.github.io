@@ -18,6 +18,11 @@ Several of our tools allow the navigation of vast catalogues of sound and music 
 In the following, we present some tools for music production and discovery that have been developed and tested through our research project.
 
 
+<a href="/assets/img/BP7_FAST_Photo_Abbey_Road_George_Audio_Commons.JPG" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;max-width:700px;" class="img-responsive" src="/assets/img/BP7_FAST_Photo_Abbey_Road_George_Audio_Commons.JPG" alt="György Fazekas presenting the Audio Commons Initiative to the audience in Abbey Road Studio 2.">
+</a>
+<p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 1. György Fazekas presenting the Audio Commons Initiative to the audience in Abbey Road Studio 2.</em></p>
+
+
 ## SampleSurfer
 
 SampleSurfer from [Waves Audio Ltd.](https://www.waves.com/) provides an audio content search engine embedded in the digital audio workstation with instant listening capabilities and transparent listing of licensing terms including Creative Commons content. It also embeds tools for content manipulation and repurposing. With SampleSurfer users are able to efficiently share, use and manipulate sounds within their DAW.
@@ -26,7 +31,7 @@ SampleSurfer from [Waves Audio Ltd.](https://www.waves.com/) provides an audio c
 </a>
 
 
-<p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 1. SampleSurfer by Waves Audio Ltd.</em></p>
+<p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 2. SampleSurfer by Waves Audio Ltd.</em></p>
 
 
 
@@ -43,7 +48,7 @@ SampleSurfer from [Waves Audio Ltd.](https://www.waves.com/) provides an audio c
 
 <a href="/assets/img/AudioTexture.jpg" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;max-width:700px;" class="img-responsive" src="/assets/img/AudioTexture.jpg" alt="AudioTexture by LeSound (AudioGaming)).">
 </a>
-<p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 2. AudioTexture by LeSound (AudioGaming)</em></p>
+<p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 3. AudioTexture by LeSound (AudioGaming)</em></p>
 
 
 <iframe src="https://drive.google.com/file/d/19PtLbI8CCiqTO-L7WGwNtwUZAdWRxmp6/preview" width="640" height="400"></iframe>
@@ -60,7 +65,7 @@ Identifying suitable sound effects for an audio project can be a difficult task 
 <a href="/assets/img/diagram_timbral_searches.png" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;max-width:640px;" class="img-responsive" src="/assets/img/diagram_timbral_searches.png" alt="Timbral attribute search frequency on freesound.org.">
 </a>
 
-<p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 3. How often each timbral attribute is searched on freesound.org</em></p>
+<p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 4. How often each timbral attribute is searched on freesound.org</em></p>
 
 <iframe src="https://andyp103.github.io/SoundMapVisualiserDemo/" height="600" width="900"><a href="https://andyp103.github.io/SoundMapVisualiserDemo/">https://andyp103.github.io/SoundMapVisualiserDemo/</a></iframe>
 
@@ -81,7 +86,7 @@ You can find more information in this [blog post](https://www.audiocommons.org/2
 <a href="/assets/img/freesound.png" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;max-width:640px;" class="img-responsive" src="/assets/img/freesound.png" alt="Freesound.org">
 </a>
 
-<p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 4. Freesound.org</em></p>
+<p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 5. Freesound.org</em></p>
 
 
 Frederic Font explains in this [blog post](https://www.audiocommons.org/2018/07/15/audio-commons-audio-extractor.html) how to use the Audio Commons Audio Extractor with Freesound.
@@ -109,13 +114,13 @@ You can find more information in this [blog post](https://labs.freesound.org/app
 <a href="/assets/img/Jam-image-1.png" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;max-width:640px;" class="img-responsive" src="/assets/img/Jam-image-1.png" alt="Jam wih Jamendo: chords selection">
 </a>
 
-<p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 5. Jam wih Jamendo: chords selection</em></p>
+<p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 6. Jam wih Jamendo: chords selection</em></p>
 
 
 <a href="/assets/img/Jam-Image-2.png" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;max-width:640px;" class="img-responsive" src="/assets/img/Jam-Image-2.png" alt="Jam wih Jamendo: song player">
 </a>
 
-<p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 6. Jam wih Jamendo: song player</em></p>
+<p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 7. Jam wih Jamendo: song player</em></p>
 
 
 Play with Jam with Jamendo [here](http://eecs.qmul.ac.uk/~johan/jam-with-jamendo/).
@@ -130,7 +135,7 @@ The results can be sorted according to different criteria and eventually the aud
 
 <a href="/assets/img/MuSST.png" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;max-width:700px;" class="img-responsive" src="/assets/img/MuSST.png" alt="MuSST. Music and Sound Search Tool.">
 </a>
-<p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 7. MuSST. Music and Sound Search Tool</em></p>
+<p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 8. MuSST. Music and Sound Search Tool</em></p>
 
 
 <iframe src="https://drive.google.com/file/d/1RlryDFP9ti_P9Z1g3orSPM92AJiJBbil/preview" width="640" height="400"></iframe>
@@ -148,7 +153,7 @@ Explore MuSST [here](audiocommons.jamendo.com).
 
 <a href="/assets/img/playsound.png" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;max-width:700px;" class="img-responsive" src="/assets/img/playsound.png" alt="Playsound.space.">
 </a>
-<p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 8. Playsound.space </em></p>
+<p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 9. Playsound.space </em></p>
 
 The collection of sounds can be saved as a url. For example, [try the collection shown in the image above](http://www.playsound.space/sounds=416784,391450,388236,129334,428759).
 
@@ -159,6 +164,43 @@ Play with Paysound.space [here](http://playsound.space).
 <p style="text-align:center; padding-top:0; font-size:85%"><em>Playsound Video Demonstrator</em></p>
 
 Read more information on Playsound at this [blog post](https://www.audiocommons.org/2018/06/01/nime-2018-playsound.html).
+
+
+## Abbey Road
+
+Below, a selection of pictures from the event!
+
+<a href="/assets/img/Alessia_PresentingACTools.JPG" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;max-width:700px;" class="img-responsive" src="/assets/img/Alessia_PresentingACTools.JPG" alt="Alessia Milo showing the AC tools">
+</a>
+<p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 10. Alessia Milo showing the AC tools.</em></p>
+
+
+<a href="/assets/img/BP7_FAST_Photo_Abbey_Road_Set-up_Alan_Chamberlain.jpeg
+" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;max-width:700px;" class="img-responsive" src="/assets/img/BP7_FAST_Photo_Abbey_Road_Set-up_Alan_Chamberlain.jpeg"  alt="Fast Industry Day setting up in Abbey Road Studio 2.">
+</a>
+<p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 11. Fast Industry Day setting up in Abbey Road Studio 2  </em></p>
+
+<a href="/assets/img/Florian_settingUp.jpg" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;max-width:700px;" class="img-responsive" src="/assets/img/Florian_settingUp.jpg" alt="Setting up for the event.">
+</a>
+<p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 12. Setting up for the event. </em></p>
+
+
+<a href="/assets/img/George_SampleSurfer.JPG" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;max-width:700px;" class="img-responsive" src="/assets/img/George_SampleSurfer.JPG" alt="György Fazekas at the demo table.">
+</a>
+<p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 13. György Fazekas at the demo table.</em></p>
+
+
+<a href="/assets/img/Andy_Timbral.JPG" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;max-width:700px;" class="img-responsive" src="/assets/img/Andy_Timbral.JPG" alt="Andy Pearce with Timbral Explorer.">
+</a>
+<p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 14. Andy Pearce with Timbral Explorer.</em></p>
+
+
+<a href="/assets/img/AbbeyRoad_byJohan_ToolsSetup.JPG" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;max-width:700px;" class="img-responsive" src="/assets/img/AbbeyRoad_byJohan_ToolsSetup.JPG" alt="SampleSurfer and AudioTexture at the demonstrator table.">
+</a>
+<p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 15. SampleSurfer and AudioTexture at the demonstrator table.</em></p>
+
+Video on Twitter of Johan Pauwels explaining Jam with Jamendo to Platform7 [here](https://twitter.com/PLATFORM7events/status/1055416223091982337).
+
 
 
 
