@@ -180,24 +180,20 @@ Below, a selection of pictures from the event!
 </a>
 <p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 11. Fast Industry Day setting up in Abbey Road Studio 2  </em></p>
 
-<a href="/assets/img/Florian_settingUp.jpg" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;max-width:700px;" class="img-responsive" src="/assets/img/Florian_settingUp.jpg" alt="Setting up for the event.">
-</a>
-<p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 12. Setting up for the event. </em></p>
-
 
 <a href="/assets/img/George_SampleSurfer.JPG" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;max-width:700px;" class="img-responsive" src="/assets/img/George_SampleSurfer.JPG" alt="György Fazekas at the demo table.">
 </a>
-<p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 13. György Fazekas at the demo table.</em></p>
+<p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 12. György Fazekas at the demo table.</em></p>
 
 
 <a href="/assets/img/Andy_Timbral.JPG" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;max-width:700px;" class="img-responsive" src="/assets/img/Andy_Timbral.JPG" alt="Andy Pearce with Timbral Explorer.">
 </a>
-<p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 14. Andy Pearce with Timbral Explorer.</em></p>
+<p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 13. Andy Pearce with Timbral Explorer.</em></p>
 
 
 <a href="/assets/img/AbbeyRoad_byJohan_ToolsSetup.JPG" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;max-width:700px;" class="img-responsive" src="/assets/img/AbbeyRoad_byJohan_ToolsSetup.JPG" alt="SampleSurfer and AudioTexture at the demonstrator table.">
 </a>
-<p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 15. SampleSurfer and AudioTexture at the demonstrator table.</em></p>
+<p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 14. SampleSurfer and AudioTexture at the demonstrator table.</em></p>
 
 Video on Twitter of Johan Pauwels explaining Jam with Jamendo to Platform7 [here](https://twitter.com/PLATFORM7events/status/1055416223091982337).
 
