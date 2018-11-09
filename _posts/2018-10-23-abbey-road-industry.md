@@ -166,11 +166,11 @@ Play with Paysound.space [here](http://playsound.space).
 Read more information on Playsound at this [blog post](https://www.audiocommons.org/2018/06/01/nime-2018-playsound.html).
 
 
-## Abbey Road
+## Abbey Road Studios Event
 
 Below, a selection of pictures from the event!
 
-<a href="/assets/img/Alessia_PresentingACTools.JPG" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;max-width:700px;" class="img-responsive" src="/assets/img/Alessia_PresentingACTools.JPG" alt="Alessia Milo showing the AC tools">
+<a href="/assets/img/Alessia_PresentingACTools.jpg" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;max-width:700px;" class="img-responsive" src="/assets/img/Alessia_PresentingACTools.jpg" alt="Alessia Milo showing the AC tools">
 </a>
 <p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 10. Alessia Milo showing the AC tools.</em></p>
 
