@@ -9,7 +9,7 @@ title:  "Abbey Road Industry Day"
 author: Alessia Milo
 ---
 
-On the 25th of October, some of the tools developed within the [Audio Commons Initiative](https://www.audiocommons.org/about/) will be presented at the event organised by [FAST IMPACT](http://www.semanticaudio.ac.uk/) at [Abbey Road Studios](https://www.abbeyroad.com/) for the [FAST Industry Day](http://www.semanticaudio.ac.uk/events/fast-industry-day/).
+On the 25th of October, some of the tools developed within the [Audio Commons Initiative](https://www.audiocommons.org/about/) were presented at the event organised by [FAST IMPACT](http://www.semanticaudio.ac.uk/) at [Abbey Road Studios](https://www.abbeyroad.com/) for the [FAST Industry Day](http://www.semanticaudio.ac.uk/events/fast-industry-day/).
 
 The Audio Commons Ecosystem (ACE) refers to a series of technologies and actors involved in publishing and consuming Audio Commons content. Audio Commons content (AC) refers to audio released under Creative Commons licenses and enhanced with meaningful contextual information (e.g. annotations, license information) that enables its publication in the ACE and facilitates its reuse.
 
