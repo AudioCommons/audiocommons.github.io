@@ -121,21 +121,15 @@ What follows is a list of key people behind the Audio Commons consortium:
             <td><i></i></td>
         </tr>
         <tr>
-            <td>David Plans</td>
-            <td>Centre for the Digital Economy, University of Surrey</td>
-            <td><a href="http://www.surrey.ac.uk/sbs/people/david_plans/" target="blank">site</a></td>
-            <td><i></i></td>
-        </tr>
-        <tr>
             <td>Carla Bonina</td>
             <td>Centre for the Digital Economy, University of Surrey</td>
             <td><a href="http://www.surrey.ac.uk/sbs/people/carla_bonina/" target="blank">site</a></td>
             <td><i></i></td>
         </tr>
         <tr>
-            <td>Milosz Miszczynski</td>
-            <td>Centre for the Digital Economy, University of Surrey</td>
-            <td></td>
+            <td>Kari Koskinen</td>
+            <td>Department of Management, London School of Economics, UK</td>
+            <td><a href="https://www.lse.ac.uk/management/people/academic-staff/kkoskinen" target="blank">site</a></td>
             <td><i></i></td>
         </tr>
         <tr>
@@ -145,7 +139,7 @@ What follows is a list of key people behind the Audio Commons consortium:
             <td><i></i></td>
         </tr>
         <tr>
-            <td>Martin Guerber</td>
+            <td>Liviu Iorgulescu</td>
             <td>Jamendo SA</td>
             <td><a href="https://www.jamendo.com/" target="blank">jamendo.com</a></td>
             <td><i></i></td>
