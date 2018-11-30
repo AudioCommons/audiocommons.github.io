@@ -18,9 +18,9 @@ Several of our tools allow the navigation of vast catalogues of sound and music 
 In the following, we present some tools for music production and discovery that have been developed and tested through our research project.
 
 
-<a href="/assets/img/BP7_FAST_Photo_Abbey_Road_George_Audio_Commons.JPG" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;max-width:700px;" class="img-responsive" src="/assets/img/BP7_FAST_Photo_Abbey_Road_George_Audio_Commons.JPG" alt="György Fazekas presenting the Audio Commons Initiative to the audience in Abbey Road Studio 2.">
+<a href="/assets/img/BP7_FAST_Photo_Abbey_Road_George_Audio_Commons.JPG" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;max-width:700px;" class="img-responsive" src="/assets/img/BP7_FAST_Photo_Abbey_Road_George_Audio_Commons.JPG" alt="George Fazekas presenting the Audio Commons Initiative to the audience in Abbey Road Studio 2.">
 </a>
-<p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 1. György Fazekas presenting the Audio Commons Initiative to the audience in Abbey Road Studio 2.</em></p>
+<p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 1. George Fazekas presenting the Audio Commons Initiative to the audience in Abbey Road Studio 2.</em></p>
 
 
 ## SampleSurfer
@@ -181,19 +181,19 @@ Below, a selection of pictures from the event!
 <p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 11. Fast Industry Day setting up in Abbey Road Studio 2  </em></p>
 
 
-<a href="/assets/img/George_SampleSurfer.JPG" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;max-width:700px;" class="img-responsive" src="/assets/img/George_SampleSurfer.JPG" alt="György Fazekas at the demo table.">
+<!--<a href="/assets/img/George_SampleSurfer.JPG" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;max-width:700px;" class="img-responsive" src="/assets/img/George_SampleSurfer.JPG" alt="George Fazekas at the demo table.">
 </a>
-<p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 12. György Fazekas at the demo table.</em></p>
+<p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 12. George Fazekas at the demo table.</em></p>-->
 
 
 <a href="/assets/img/Andy_Timbral.JPG" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;max-width:700px;" class="img-responsive" src="/assets/img/Andy_Timbral.JPG" alt="Andy Pearce with Timbral Explorer.">
 </a>
-<p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 13. Andy Pearce with Timbral Explorer.</em></p>
+<p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 12. Andy Pearce with Timbral Explorer.</em></p>
 
 
 <a href="/assets/img/AbbeyRoad_byJohan_ToolsSetup.JPG" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;max-width:700px;" class="img-responsive" src="/assets/img/AbbeyRoad_byJohan_ToolsSetup.JPG" alt="SampleSurfer and AudioTexture at the demonstrator table.">
 </a>
-<p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 14. SampleSurfer and AudioTexture at the demonstrator table.</em></p>
+<p style="text-align:center; padding-top:0; font-size:85%"><em>Figure 13. SampleSurfer and AudioTexture at the demonstrator table.</em></p>
 
 Video on Twitter of Johan Pauwels explaining Jam with Jamendo to Platform7 [here](https://twitter.com/PLATFORM7events/status/1055416223091982337).
 
