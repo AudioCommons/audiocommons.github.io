@@ -4,7 +4,7 @@ cover: assets/img/extractor.jpg
 navigation: True
 class: post-template
 subclass: 'post'
-tags: news
+tags: tools
 title:  "Audio Commons Audio Extractor: A Hands-on Tutorial"
 author: Frederic Font
 ---
