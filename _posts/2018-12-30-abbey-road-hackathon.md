@@ -23,10 +23,17 @@ On the 10th and 11th of November 2018, the first [Abbey Road Hackathon](https://
 The Hackathon, organised by [Abbey Road Red](https://www.abbeyroad.com/abbeyroadred), the innovation department of Abbey Road Studios, was looking for _audio developers, machine-learning experts, MATLAB, Max MSP and C++ heroes, Python gurus, and design thinkers_ to create projects inspired by the theme **The Future of Music Creation**. The event invited to answer questions such as:  _What will musical instruments of the future be like?_ _What tools can we build to facilitate the creative process?_ _How can we use technology to make music-making more accessible?_
 Among the Tech and Strategic Partners figured [Universal](https://www.universalmusic.com/), [Microsoft Cognitive Sevices](https://docs.microsoft.com/en-us/azure/cognitive-services/), [Miquido](https://www.miquido.com/), [Juce](https://juce.com/), [WhoSampled](https://www.whosampled.com/), [Chirp](https://chirp.io/), [Bare Conductive](https://www.bareconductive.com/), [Hackoustic](https://hackoustic.org/), [7digital](https://www.7digital.com/), [Ambimusic](https://ambimusic.com/), [Volumio](https://volumio.org/), [Quantone](http://quantonemusic.com/), [Gracenote](http://www.gracenote.com/), [Cloudinary](https://cloudinary.com/).
 
+<!-- <a href="/assets/img/A_R_Entrance.jpg" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;max-width:700px;" class="img-responsive" src="/assets/img/A_R_Entrance.jpg" alt="Abbey Road Studios">
+</a>
+
+<p style="text-align:center; padding-top:0; font-size:85%"><em> Abbey Road Studios. </em></p> -->
+
+
 <a href="/assets/img/StudioOneDetail.jpeg" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;max-width:640px;" class="img-responsive" src="/assets/img/StudioOneDetail.jpeg" alt="Abbey Road Studio One during the hackathon.">
 </a>
 
 <p style="text-align:center; padding-top:0; font-size:85%"><em> Abbey Road Studio One during the hackathon.</em></p>
+
 
 
 
