@@ -54,7 +54,7 @@ Existing news entries can also be easily edited by navigating to the file with t
 
 ### Posting in the "tools" section
 
-To post in the tools section you have to follow the same procedure as for [posting in the "home" section](#posting-in-the-news-section), but instead of setting the tag `news` you'll have to set the tag `tools`. There fore, your markdown foreground should look like:
+To post in the tools section you have to follow the same procedure as for [posting in the "home" section](#posting-in-the-news-section), but instead of setting the tag `news` you'll have to set the tag `tools`. Therefore, your markdown foreground should look like:
 
 ```markdown
 ---
