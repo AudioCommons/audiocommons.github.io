@@ -127,7 +127,7 @@ Chirping audio beacons were used to detect spatial locality, with possible appli
 
 The resources offered by Audio Commons were found a simple way of retrieving sounds and bringing more life to the narrative in an automated way, where the narrative writer wouldn't need to fuss about finding sound files themselves. The idea of the creators was to use keywords from the narrative to search for related sound samples of a suitable sound duration.
 
-Sonic Breadcrumbs is developed by Valentin Bauer, Tom Kaplan, Frazer Merrick and Matt Timmermans.
+Sonic Breadcrumbs is developed by Valentin Bauer, [Tom Kaplan](https://kappers.github.io/), Frazer Merrick and Matt Timmermans.
 
 <blockquote class="twitter-tweet" data-lang="it"><p lang="en" dir="ltr">Heres a working example of the web app, powered by <a href="https://twitter.com/chirp?ref_src=twsrc%5Etfw">@chirp</a> and <a href="https://twitter.com/p5xjs?ref_src=twsrc%5Etfw">@p5xjs</a>, and showing our Abbey Road Runner Game. <br><br>Just imagine the emitters were embedded within a tourist trail, museum exhibit or even an immersive theatre set! N.b it is possible to make the &#39;chirps&#39; ultrasonic. <a href="https://t.co/ibT7GxYiSr">pic.twitter.com/ibT7GxYiSr</a></p>&mdash; Frazer Merrick (@frazermerrick) <a href="https://twitter.com/frazermerrick/status/1061720984481419271?ref_src=twsrc%5Etfw">11 novembre 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
