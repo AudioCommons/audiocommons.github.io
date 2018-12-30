@@ -134,10 +134,10 @@ Sonic Breadcrumbs is developed by Valentin Bauer, Tom Kaplan, Frazer Merrick and
 
 <p style="text-align:center; padding-top:0; font-size:85%"><em> A tweet on Sonic Breadcrumbs during the event.</em></p>
 
-<a href="/assets/img/team_AC_stage.jpg" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;max-width:700px;" class="img-responsive" src="/assets/img/team_AC_stage.jpg" alt="The team who developed Sonic Breadcrumbs presenting their project.">
+<a href="/assets/img/team_AC_Stage.jpg" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;max-width:700px;" class="img-responsive" src="/assets/img/team_AC_Stage.jpg" alt="The team who developed Sonic Breadcrumbs presenting their project.">
 </a>
 
-<p style="text-align:center; padding-top:0; font-size:85%"><em> The team who developed Sonic Breadcrumbs presenting on the stage. </em></p>
+<p style="text-align:center; padding-top:0; font-size:85%"><em> The creators of Sonic Breadcrumbs mentioning Audio Commons on stage. </em></p>
 
 ## Acknowledgements
 
