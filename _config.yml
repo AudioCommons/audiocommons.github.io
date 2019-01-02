@@ -39,7 +39,7 @@ google_analytics: UA-81135339-1 # replace with your GA tracking identifier
 # Permalinks
 permalink: /:year/:month/:day/:title.html
 # permalink: /author/:author
-# permalink: /tag/:tag
+permalink: /tag/:tag
 
 # Authors' info in `_data/authors.yml`
 # Tags' info in `_data/tags_info.yml`
