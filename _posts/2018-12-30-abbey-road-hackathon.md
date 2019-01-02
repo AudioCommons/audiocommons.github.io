@@ -98,6 +98,12 @@ _Play the Singer_ is a game where Player#1, which we can call the Singer, has to
 
 <p style="text-align:center; padding-top:0; font-size:85%"><em> Table#7 working on Play the Singer.</em></p>
 
+<a href="/assets/img/table7_film.JPG" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;max-width:700px;" class="img-responsive" src="/assets/img/table7_film.JPG" alt="Table#7 filming the demonstrative video. Picture by Archie Brooksbank (for Abbey Road Red)">
+</a>
+
+<p style="text-align:center; padding-top:0; font-size:85%"><em> Table#7 filming the demonstrative video. Picture by Archie Brooksbank (Abbey Road Red).</em></p>
+
+
 
 
 _How does Play the Singer integrate Audio Commons?_  
