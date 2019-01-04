@@ -4,7 +4,7 @@ cover: assets/img/cover_CCLicenses.png
 navigation: True
 class: post-template
 subclass: 'post'
-tags: news tools
+tags: tools
 title:  "Creative Commons: What licence to use and when?"
 author: Kari Koskinen
 ---
