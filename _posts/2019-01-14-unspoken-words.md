@@ -71,4 +71,4 @@ Unspoken Word is an Open Source project, released under the GNU General Public L
 
 Lizzie Wilson and Jorge del Bosque are supported by EPSRC and AHRC Centre for Doctoral Training in [Media and Arts Technology](https://mat.qmul.ac.uk)  (EP/L01632X/1).
 
-The image in the cover should be credited as: [Unspoken Word / Jorge del Bosque (MX), Lizzie Wilson (UK), Credit: vog.photo](https://ars.electronica.art/error/en/unspoken/)
+The image in the cover is reposted from [this page](https://ars.electronica.art/error/en/unspoken/) and should be credited as: Unspoken Word / Jorge del Bosque (MX), Lizzie Wilson (UK). Credit: [vog.photo](https://www.voggeneder.net/) for Ars Electronica.
