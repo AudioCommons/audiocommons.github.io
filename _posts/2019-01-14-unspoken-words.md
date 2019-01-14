@@ -63,9 +63,6 @@ The festival takes place annually in September, and this year Queen Mary Univers
 
 
 
-## GET INVOLVED
-
-Unspoken Word is an Open Source project, released under the GNU General Public License v3.0, available on github. You can find the github Unspoken Word Repository [here](https://github.com/jdbosque/BBC-SwM).
 
 ## Acknowledgements
 
