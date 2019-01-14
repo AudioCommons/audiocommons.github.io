@@ -128,7 +128,7 @@ The game, which you can find on [github](https://github.com/giuliomoro/bela-game
 
 ## Sonic Breadcrumbs
 
-Sonic Breadcrumbs is a choose-your-own-adventure in physical space rooted in the physical world, which uses chirping beacons and a mobile web client to let you respond to triggers in the surrounding environment.
+**Sonic Breadcrumbs** is a choose-your-own-adventure in physical space rooted in the physical world, which uses chirping beacons and a mobile web client to let you respond to triggers in the surrounding environment.
 Chirping audio beacons were used to detect spatial locality, with possible applications at home, in a museum or gallery, an enhanced location-aware audio tour, or for promenade theatre.
 
 The resources offered by Audio Commons were found a simple way of retrieving sounds and bringing more life to the narrative in an automated way, where the narrative writer wouldn't need to fuss about finding sound files themselves. The idea of the creators was to use keywords from the narrative to search for related sound samples of a suitable sound duration.
