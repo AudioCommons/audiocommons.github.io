@@ -9,7 +9,7 @@ title:  "Unspoken Word: a Creative Springboard Musical Tool"
 author: Lizzie Wilson and Jorge del Bosque
 ---
 
-**Unspoken Word** is an open source software project that aims to allow broad audiences to access music making. This is done through analysis of spoken word, which can then be converted into music and controlled by the user. The project, which was supported throughout by the AudioCommons team, was jointly conceived and produced by Queen Mary [Media & Arts Technology](https://mat.qmul.ac.uk) PhD students [Jorge del Bosque](http://www.eecs.qmul.ac.uk/profiles/delbosquetrevinojorgeeugenio.html) and [Lizzie Wilson](https://twitter.com/dgtlslvs) as part of a collaboration with Henry Cooke and Tim Cowlishaw at [BBC R&D](https://www.bbc.co.uk/rd).
+**Unspoken Word** is an open source software project that aims to allow broad audiences to access music making. This is done through analysis of spoken word, which can then be converted into music and controlled by the user. The project, which was supported throughout by the AudioCommons team, was jointly conceived and produced by Queen Mary [Media & Arts Technology](https://mat.qmul.ac.uk) PhD students [Jorge del Bosque](http://www.delbosque.co) and [Lizzie Wilson](https://twitter.com/dgtlslvs) as part of a collaboration with Henry Cooke and Tim Cowlishaw at [BBC R&D](https://www.bbc.co.uk/rd).
 
 
 ## HOW DOES IT WORK?
@@ -66,6 +66,7 @@ The festival takes place annually in September, and this year Queen Mary Univers
 
 ## Acknowledgements
 
-Lizzie Wilson and Jorge del Bosque are supported by EPSRC and AHRC Centre for Doctoral Training in [Media and Arts Technology](https://mat.qmul.ac.uk)  (EP/L01632X/1).
+Lizzie Wilson and Jorge del Bosque are supported by EPSRC and AHRC Centre for Doctoral Training in [Media and Arts Technology](https://mat.qmul.ac.uk)  (EP/L01632X/1). Jorge del Bosque is also supported by the Mexican Council of Science and Technology ([CONACyT](http://www.conacyt.gob.mx/))
+
 
 The image in the cover is reposted from [this page](https://ars.electronica.art/error/en/unspoken/) and should be credited as: Unspoken Word / Jorge del Bosque (MX), Lizzie Wilson (UK). Credit: [vog.photo](https://www.voggeneder.net/) for Ars Electronica.
