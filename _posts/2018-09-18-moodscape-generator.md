@@ -4,7 +4,7 @@ cover: assets/img/moodscape.jpg
 navigation: True
 class: post-template
 subclass: 'post'
-tags: news
+tags: tools
 title:  "MoodScape Generator: Automated Generation of Soundscapes"
 author: Tayjo Padmini Vaduru
 ---

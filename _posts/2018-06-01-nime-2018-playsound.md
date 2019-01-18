@@ -4,7 +4,7 @@ cover: assets/img/NIME_2018_Playsound.jpg
 navigation: True
 class: post-template
 subclass: 'post'
-tags: news
+tags: tools
 title:  "Playsound @ NIME ’18: Inclusive Free Music Improvisations Using Audio Commons"
 author: Ariane Stolfi
 ---
