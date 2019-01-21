@@ -4,13 +4,10 @@ current: post
 class: post-template
 subclass: 'post'
 navigation: True
-#cover: assets/img/image.jpg # -> optional, if set an image will be shown with the entry
-title:  "Title of the post"
-tags: tools # <- this is the bit that changed!
+cover: assets/img/audiotexturefree.png
+title:  "AudioTexture Free"
+tags: tools
 ---
-
-
-# AudioTexture Free (Freesound browser)
 
 AudioTexture Free is the free version of [AudioTexture](https://lesound.io/product/audiotexture/) plugin which loads contents from [Freesound](https://freesound.org/), then generate infinitely sounds, variations or loops.
 
