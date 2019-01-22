@@ -7,6 +7,7 @@ navigation: True
 cover: assets/img/multi-web-audio-sequencer-screenshot.png
 title:  "Multi Web Audio Sequencer"
 tags: tools
+author: Xavier Favory
 ---
 
 The **Multi Web Audio Sequencer** is a prototype of an application for segment-based sequencing of Freesound sound clips, with an emphasis on seamless remote collaboration. It is built using <a href="https://expressjs.com/" target="_blank">Express.js</a>, the <a href="https://developer.mozilla.org/fr/docs/Web/API/Web_Audio_API" target="_blank">Web Audio API</a>, and the <a href="https://socket.io/" target="_blank">Socket.io</a> library. 
