@@ -40,20 +40,6 @@ cover: assets/img/header_background_green.jpg
                 <div class="post-card-content">
                     <a class="post-card-content-link" href="{{ site.baseurl2 }}{{ post.url | remove_first: '/' }}">
                         <header class="post-card-header">
-                            {% if post.tags.size > 0 %}
-                                {% for tag in post.tags %}
-                                    {% if forloop.index == post.tags.size %}
-                                        <span class="post-card-tags">{{ tag | capitalize }}</span>
-                                    {% else %}
-                                    <span class="post-card-tags">{{ tag | capitalize }}</span>
-                                    {% endif %}
-                                {% endfor %}
-                                <span class="post-card-tags">|</span>
-                            {% endif %}
-                            {% if post.date %}
-                                <span class="post-card-tags">{{ post.date | date: "%B %Y" }}{% if post.author %}<br>By {{ post.author }}{% endif %}</span>
-                            {% endif %}
-
                             <h2 class="post-card-title" style="margin-top:8px;">{{ post.title }}</h2>
                         </header>
                         <section class="post-card-excerpt">
