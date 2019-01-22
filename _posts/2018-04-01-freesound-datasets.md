@@ -33,4 +33,4 @@ In particular, we started the creation of **FSD**, a dataset of everyday sounds,
 annotations, we developed a validation tool with an interface that helps users to understand a category and its context in the AudioSet Ontology.
 
 
-More information about the can be found in our [ISMIR2017 paper](https://repositori.upf.edu/handle/10230/33299).
+More information can be found in our [ISMIR2017 paper](https://repositori.upf.edu/handle/10230/33299).
