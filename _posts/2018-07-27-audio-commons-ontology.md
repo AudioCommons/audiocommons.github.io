@@ -47,5 +47,5 @@ Furthermore, the Audio Commons Ontology aims to represent audio content and its 
 A scientific paper describing the ontology has been presented in October 2018 at the
 [International Semantic Web Conference (ISWC) in Monterey, CA, USA](http://iswc2018.semanticweb.org/).
 
-For technical details on the ontology visit https://w3id.org/ac-ontology/aco.
+For technical details on the ontology visit [https://w3id.org/ac-ontology/aco](https://w3id.org/ac-ontology/aco).
 For further information you can also contact the authors [Miguel Ceriani](mailto:miguel.ceriani@gmail.com) and [George Fazekas](mailto:g.fazekas@qmul.ac.uk).
