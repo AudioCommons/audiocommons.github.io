@@ -44,5 +44,8 @@ In the context of the mediator, the ontology will be used for the dual role of b
 2. a way to express in the results rich data relationships that cannot be represented in the current version of the mediator.
 
 Furthermore, the Audio Commons Ontology aims to represent audio content and its categories and relationships beyond the Audio Commons Initiative.
-A scientific paper describing the ontology will be presented in October at the
+A scientific paper describing the ontology has been presented in October 2018 at the
 [International Semantic Web Conference (ISWC) in Monterey, CA, USA](http://iswc2018.semanticweb.org/).
+
+For technical details on the ontology visit https://w3id.org/ac-ontology/aco.
+For further information you can also contact the authors [Miguel Ceriani](mailto:miguel.ceriani@gmail.com) and [George Fazekas](mailto:g.fazekas@qmul.ac.uk).
