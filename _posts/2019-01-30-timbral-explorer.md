@@ -16,9 +16,6 @@ The timbral explorer shows one example of how this timbral metadata could be use
 <iframe frameborder="0" scrolling="no" src="https://andyp103.github.io/FreesoundTimbralSearch/" width="850" height="600"></iframe>
 A full screen version of the interface can be found [here](https://andyp103.github.io/FreesoundTimbralSearch/).  Be aware that there are some issues with playing back sounds in the Safari browser, but works.  
 
-All metadata used in this demo is taken live from Freesound, and has been calculated from the timbral models developed by the [Institute of Sound Recording](http://www.iosr.uk/AudioCommons/).  These models are written in python and can be downloaded from either the project's [GitHub page](https://github.com/AudioCommons/timbral_models) or downloaded on PyPI with the command 
-''' 
-pip install timbral_models
-'''
+All metadata used in this demo is taken live from Freesound, and has been calculated from the timbral models developed by the [Institute of Sound Recording](http://www.iosr.uk/AudioCommons/).  These models are written in python and can be downloaded from either the project's [GitHub page](https://github.com/AudioCommons/timbral_models) or downloaded on PyPI with the command `pip install timbral_models` .
 
 
