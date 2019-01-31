@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: assets/img/timbral_explorer.jpg
+cover: assets/img/timbral_explorer.png
 navigation: True
 class: post-template
 subclass: 'post'
