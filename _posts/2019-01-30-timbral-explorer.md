@@ -13,8 +13,8 @@ author: Andy Pearce
 
 The timbral explorer shows one example of how this timbral metadata could be used.  In the demo shown below, users can search for a specific source type on freesound using the search box in the top right (e.g. snare).  The search results are then distributed across the screen in a 2D plane according to the timbral metadata, with each axis set to a specific timbral attribute.  For example, with the x-axis set to brightness, and the y-axis set to hardness, sounds in the top right of the screen will sound very hard and very bright.  Sounds positioned vertically downward from this top-right position will maintain the same level of perceived brightness, but will sound less hard.  Likewise, moving horizontally from the top-right maintains the same level of hardness, but the sounds will become less bright.
 
-<iframe frameborder="0" scrolling="no" src="https://andyp103.github.io/FreesoundTimbralSearch/" width="850" height="275"></iframe>
-A full screen version of the interface can be found [here](https://andyp103.github.io/FreesoundTimbralSearch/).
+<iframe frameborder="0" scrolling="no" src="https://andyp103.github.io/FreesoundTimbralSearch/" width="850" height="600"></iframe>
+A full screen version of the interface can be found [here](https://andyp103.github.io/FreesoundTimbralSearch/).  Be aware that there are some issues with playing back sounds in the Safari browser, but works.  
 
 All metadata used in this demo is taken live from Freesound, and has been calculated from the timbral models developed by the [Institute of Sound Recording](http://www.iosr.uk/AudioCommons/).  These models are written in python and can be downloaded from either the project's [GitHub page](https://github.com/AudioCommons/timbral_models) or downloaded on PyPI with the command 
 ''' 
