@@ -124,7 +124,7 @@ cover: assets/img/header_background_green.jpg
     </ul>
 </div>
 <div class="row_materials">
-    <h1>Other Materials</h1><a name="others"></a>
+    <h1>Other Materials</h1><a name="other"></a>
     <ul class="materials-list">
         {% assign list = sorted_materials | where: "type" , "other" %}
         {% if list.size > 0  %}
