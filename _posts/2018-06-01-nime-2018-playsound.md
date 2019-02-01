@@ -5,7 +5,7 @@ navigation: True
 class: post-template
 subclass: 'post'
 tags: tools
-title:  "Playsound @ NIME ’18: Inclusive Free Music Improvisations Using Audio Commons"
+title:  "Playsound: Inclusive Free Music Improvisations Using Audio Commons"
 author: Ariane Stolfi
 ---
 
