@@ -22,14 +22,14 @@ There are a number of reasons why such content is not yet extensively used in th
 Also, the nature of this content, coming from a variety of sources and from authors with different levels of expertise, results in unstructured (or **not uniformly structured**) mass of resources, limiting its potential retrieval and reuse possibilities.
 Moreover, no tools are easily available to search and incorporate Creative Commons audio content in the **production workflows** of the creative industries.
 
-The **Audio Commons Initiative** is therefore aimed at promoting the use of open audio content and at developing technologies with which to support an envisioned **ecosystem** of content repositories, production tools and users (the [Audio Commons Ecosystem](#the-audio-commons-ecosystem)). These technologies should enable the reuse of this audio material, facilitating its integration in the production workflows of the creative industries.
+The **Audio Commons Initiative** is therefore aimed at promoting the use of open audio content and at developing technologies with which to support an envisioned **ecosystem** of content repositories, production tools and users (the [Audio Commons Ecosystem](#the-audio-commons-ecosystem)). These technologies enable the reuse of this audio material, facilitating its integration in the production workflows of the creative industries.
 
 The Audio Commons Initiative has been the result of the **EU funded project AudioCommons**, which finished on January 2019. However the ideas behinf the initiative and the tools and technologies that have been developed are still available and continue existing to pursue our goals. The AudioCommons project consortium was formed by leading research institutes in sound and music computing and key players in the creative industries. Follow us on Twitter at [**@AudioCommons**](https://twitter.com/AudioCommons).
 
 
 # The Audio Commons Ecosystem
 
-The Audio Commons Initiative supports an ecosystem of content, users and tools that should facilitate the reuse of Creative Commons audio content in the professional sector and, by extension, in the independent or non-professional sectors too. We call this the **Audio Commons Ecosystem** (or **ACE**).
+The Audio Commons Initiative supports an ecosystem of content, users and tools that facilitates the reuse of Creative Commons audio content in the professional sector and, by extension, in the independent or non-professional sectors too. We call this the **Audio Commons Ecosystem** (or **ACE**).
 In short, the Audio Commons Ecosystem allows content creators to expose their Creative Commons audio content to content users in the creative industries, and provide ways for its seamless integration in creative workflows. The figure below shows a conceptual diagram of the different components interconnected in our vision of the ACE.
             
 <a href="/assets/img/diagram.png" target="blank"><img style="margin:auto;margin-bottom:25px;margin-top:25px;" class="img-responsive" src="/assets/img/diagram2.png" alt="The Audio Commons Ecosystem"></a>
