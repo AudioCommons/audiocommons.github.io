@@ -21,8 +21,9 @@ cover: assets/img/header_background_green.jpg
     <h1>Project Deliverables</h1><a name="deliverables"></a>
     <ul class="materials-list">
         {% assign list = sorted_materials | where: "type" , "document" %}
+        {% assign new_list = list | sort: 'title' %}
         {% if list.size > 0  %}
-            {% for material in list reversed %}
+            {% for material in new_list %}
                 <li>
                     {% if material.link %}<a href="{{ material.link }}" target="_blank">{% endif %}
                     <b>{{ material.title }}</b>{% if material.link %}</a>{% endif %}{% if material.date %}, {{ material.date | date: '%B %Y' }}.{% endif %}
