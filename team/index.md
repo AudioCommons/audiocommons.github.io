@@ -12,8 +12,8 @@ cover: assets/img/header_background_green.jpg
 
 # Consortium
 
-The Audio Commons consortium is formed by leading research institutes in sound and music computing and key players in the creative industries. Academic partners include the [Music Technology Group](http://mtg.upf.edu) from Universitat Pompeu Fabra (MTG, project coordinator), the [Centre for Digital Music](http://c4dm.eecs.qmul.ac.uk) from Queen Mary University of London (C4DM), and three research groups from University of Surrey: the [Centre for Vision, Speech and Signal Processing](http://www.cvssp.org) (CVSSP), the [Institute of Sound Recording](http://iosr.surrey.ac.uk) (IoSR) and the [Surrey Business School](http://www.surrey.ac.uk/business-school). On the industry side, the Audio Commons consortium includes [Jamendo](http://www.jamendo.com) (one of the biggest platforms for sharing independent Creative Commons music), [AudioGaming](http://www.audiogaming.net) (an innovative company developing next generation audio tools for sound designers and video game developers), and [Waves](http://www.waves.com) (world's leading developer of audio DSP solutions for the professional, broadcast, and consumer electronics audio markets). 
-What follows is a list of key people behind the Audio Commons consortium:
+The original AudioCommons project consortium was formed by leading research institutes in sound and music computing and key players in the creative industries. Academic partners include the [Music Technology Group](http://mtg.upf.edu) from Universitat Pompeu Fabra (MTG, project coordinator), the [Centre for Digital Music](http://c4dm.eecs.qmul.ac.uk) from Queen Mary University of London (C4DM), and three research groups from University of Surrey: the [Centre for Vision, Speech and Signal Processing](http://www.cvssp.org) (CVSSP), the [Institute of Sound Recording](http://iosr.surrey.ac.uk) (IoSR) and the [Surrey Business School](http://www.surrey.ac.uk/business-school). On the industry side, the Audio Commons consortium includes [Jamendo](http://www.jamendo.com) (one of the biggest platforms for sharing independent Creative Commons music), [AudioGaming](http://www.audiogaming.net) (an innovative company developing next generation audio tools for sound designers and video game developers), and [Waves](http://www.waves.com) (world's leading developer of audio DSP solutions for the professional, broadcast, and consumer electronics audio markets). 
+What follows is a list of key people behind the AudioCommons consortium:
 
 <table class="table table-striped table-hover">
     <thead><tr><th>Name</th><th>Affiliation</th><th>Site/contact</th><th></th></tr></thead>
@@ -256,9 +256,12 @@ The following institutions, initiatives and companies have stated their support 
     </div>
 </div>
 
+
+<!--
 # Get Involved!
 
 The aim of the <b>Audio Commons Initiative</b> is, starting from the project consortium, engage as many stakeholders as possible, involving them in the definition, development and expansion of the ecosystem. 
 We expect that creative industries will engage with the initiative and that the ecosystem will attract new stakeholders, making the initiative wider and ultimately contributing in making Creative Commons audio accessible to everyone and reusable everywhere.
 
 We understand that the concept of <b>Audio Commons</b> and the envisioned <b>ecosystem</b> pose challenges at many different levels, from technological development to intellectual property management, copyright policies and business models; and that by addressing them we can have a wide impact in the creative industries. The success of the initiative and its future sustainability largely depends on maximising take-up and adoption of the proposed concepts and ecosystem, and on other parties joining the initiative. We therefore <b>encourage potential new stakeholders</b> to contact the project consortium, support and become part of the initiative (e.g. content providers, tool developers, researchers or, in general, content users and creators). 
+-->
