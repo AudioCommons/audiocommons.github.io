@@ -4,7 +4,7 @@ cover: assets/img/cover_Vinyls.jpg
 navigation: True
 class: post-template
 subclass: 'post'
-tags: news
+tags: tools
 title:  "Audio Commons Ontology"
 author: Miguel Ceriani
 ---
@@ -39,10 +39,13 @@ The Audio Commons [consortium](https://www.audiocommons.org/team/) is working on
 tools accordingly and develop new tools that will be using the ontology. One important example is the Audio Commons Mediator, a piece of software that integrates three existing content
 repositories (Jamendo, Freesound, and Europeana), offering a common web API to
 access them in order to look for audio content in any of the three.
-In the context of the mediator, the ontology will be used for the dual role of being: 
+In the context of the mediator, the ontology will be used for the dual role of being:
 1. the common data model used for integration;
 2. a way to express in the results rich data relationships that cannot be represented in the current version of the mediator.
 
 Furthermore, the Audio Commons Ontology aims to represent audio content and its categories and relationships beyond the Audio Commons Initiative.
-A scientific paper describing the ontology will be presented in October at the
+A scientific paper describing the ontology has been presented in October 2018 at the
 [International Semantic Web Conference (ISWC) in Monterey, CA, USA](http://iswc2018.semanticweb.org/).
+
+For technical details on the ontology visit [https://w3id.org/ac-ontology/aco](https://w3id.org/ac-ontology/aco).
+For further information you can also contact the authors [Miguel Ceriani](mailto:miguel.ceriani@gmail.com) and [George Fazekas](mailto:g.fazekas@qmul.ac.uk).
