@@ -11,7 +11,7 @@ cover: assets/img/header_background_green.jpg
 ---
 
 
-# The Audio Commons Project
+# What is Audio Commons?
 
 The **Audio Commons Initiative** aims at *bringing Creative Commons audio content to the creative industries*. But what does this mean?
 We realise that significant amounts of user-generated audio content, such as **sound effects**, **field recordings**, **musical samples** and **music pieces** (among others), are uploaded to online repositories and made available under [Creative Commons](https://creativecommons.org) licenses. 
