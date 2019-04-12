@@ -170,24 +170,24 @@ The Audio Commons Audio Extractor is expected to be used as a command line tool 
 Assuming you have Docker installed, you can easily analyze an audio file using the following command (the audio file must be located in the same folder from where you run the command, be aware that the first time you run this command it will take a lot of time as Docker will need to download the actual Audio Commons Audio Extractor tool first):
 
 ```
-docker run -it --rm -v `pwd`:/tmp mtgupf/ac-audio-extractor:v2 -i /tmp/audio.wav -o /tmp/analysis.json -smt
+docker run -it --rm -v `pwd`:/tmp mtgupf/ac-audio-extractor:v3 -i /tmp/audio.wav -o /tmp/analysis.json -smt
 ```
 
 The example above mounts the current directory ``pwd`` in the virtual `tmp` directory inside Docker. The output file `audio.json` is also written in `tmp`, and therefore appears in the current directory. You can also mount different volumes and specify paths for input audio and analysis output using the following command (read the [Docker volumes](https://docs.docker.com/storage/volumes/) documentation for more information):
 
 ```
-docker run -it --rm -v /local/path/to/your/audio/file.wav:/audio.wav -v /local/path/to/output_directory/:/outdir mtgupf/ac-audio-extractor:v2 -i /audio.wav -o /outdir/analysis.json  -smt
+docker run -it --rm -v /local/path/to/your/audio/file.wav:/audio.wav -v /local/path/to/output_directory/:/outdir mtgupf/ac-audio-extractor:v3 -i /audio.wav -o /outdir/analysis.json  -smt
 ```
 
 You can use the `--help` flag with the Audio Commons Audio Extractor so see a complete list of all available options:
 
 ```
-> docker run -it --rm -v `pwd`:/tmp mtgupf/ac-audio-extractor:v2 --help
+> docker run -it --rm -v `pwd`:/tmp mtgupf/ac-audio-extractor:v3 --help
 
 uusage: analyze.py [-h] [-v] [-t] [-m] [-s] -i INPUT -o OUTPUT [-f FORMAT]
                   [-u URI]
 
-Audio Commons Audio Extractor (v2). Analyzes a given audio file and writes
+Audio Commons Audio Extractor (v3). Analyzes a given audio file and writes
 results to a JSON file.
 
 optional arguments:
@@ -273,9 +273,9 @@ As described in [deliverable D5.2](https://www.audiocommons.org/assets/files/AC-
 - ```brightness```: brightness of the analyzed audio in a scale from [0-100]. A *bright* sound is one that is clear/vibrant and/or contains significant high-pitched elements.
 - ```hardness```: hardness of the analyzed audio in a scale from [0-100]. A *hard* sound is one that conveys the sense of having been made (i) by something solid, firm or rigid; or (ii) with a great deal of force.
 - ```depth```: depth of the analyzed audio in a scale from [0-100]. A *deep* sound is one that conveys the sense of having been made far down below the surface of its source.
-- ```roughness```: roughness of the analyzed audio in an undetermined scale. A *rough* sound is one that has an uneven or irregular sonic texture.
-
-NOTE: in some occasions the features above can return values outside the specified ranges.
-
-
+- ```roughness```: roughness of the analyzed audio in a scale from [0-100]. A *rough* sound is one that has an uneven or irregular sonic texture.
+- ```boominess```: bominess of the analyzedn sound in a scale from [0-100]. A *boomy* sound is one that conveys a sense of loudness, depth and resonance.
+- ```warmth```: warmth of the analyzedn sound in a scale from [0-100]. A *warm* sound is one that promotes a sensation analogous to that caused by a physical increase in temperature.  
+- ```sharpness```: sharpness of the analyzedn sound in a scale from [0-100]. A *sharp* sound is one that suggests it might cut if it were to take on physical form.
+- ```reverb```: will return `true` if the signal has reverb or `false` otherwise.
 
