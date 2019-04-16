@@ -4,7 +4,7 @@ cover: assets/img/cover_Vinyls.jpg
 navigation: True
 class: post-template
 subclass: 'post'
-tags: tools
+tags: tools developers researchers
 title:  "Audio Commons Ontology"
 author: Miguel Ceriani
 ---

@@ -6,7 +6,7 @@ subclass: 'post'
 navigation: True
 cover: assets/img/multi-web-audio-sequencer-screenshot.png
 title:  "Multi Web Audio Sequencer"
-tags: tools
+tags: tools creators
 author: Xavier Favory
 ---
 

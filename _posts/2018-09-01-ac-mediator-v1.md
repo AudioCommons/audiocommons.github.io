@@ -4,7 +4,7 @@ cover: assets/img/ac_mediator_v1.png
 navigation: True
 class: post-template
 subclass: 'post'
-tags: tools
+tags: tools developers
 title:  "Audio Commons Mediator (V1)"
 author: Frederic Font
 ---

@@ -6,7 +6,7 @@ subclass: 'post'
 navigation: True
 cover: assets/img/AC_manual_annotator_1.png
 title: "Audio Commons Manual Annotators"
-tags: tools
+tags: tools developers
 author: Xavier Favory
 ---
 

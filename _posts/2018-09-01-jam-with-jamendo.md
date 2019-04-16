@@ -6,7 +6,7 @@ subclass: 'post'
 navigation: True
 cover: assets/img/jam-with-jamendo.png
 title:  "Jam with Jamendo"
-tags: tools
+tags: tools creators
 author: Anna Xambó, Johan Pauwels
 ---
 

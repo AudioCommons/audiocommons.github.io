@@ -4,8 +4,8 @@ cover: assets/img/timbral_explorer.png
 navigation: True
 class: post-template
 subclass: 'post'
-tags: tools
-title:  "Timbral explorer: exploring sound effects with timbre"
+tags: tools researchers creators
+title:  "Timbral explorer"
 author: Andy Pearce
 ---
 

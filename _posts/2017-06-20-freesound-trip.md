@@ -4,7 +4,7 @@ cover: assets/img/freesound_trip.png
 navigation: True
 class: post-template
 subclass: 'post'
-tags: tools
+tags: tools creators
 title:  "Freesound Trip"
 author: Frederic Font
 ---

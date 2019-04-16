@@ -4,7 +4,7 @@ cover: assets/img/perceptual_sound_browser.png
 navigation: True
 class: post-template
 subclass: 'post'
-tags: tools
+tags: tools researchers
 title:  "Perceptual Sound Browser"
 author: Frederic Font
 ---

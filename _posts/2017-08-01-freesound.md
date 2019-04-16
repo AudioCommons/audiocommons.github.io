@@ -4,7 +4,7 @@ cover: assets/img/freesound2.png
 navigation: True
 class: post-template
 subclass: 'post'
-tags: tools
+tags: tools creators
 title:  "Freesound"
 author: Frederic Font
 ---

@@ -4,7 +4,7 @@ cover: assets/img/freesound_explorer.jpg
 navigation: True
 class: post-template
 subclass: 'post'
-tags: tools
+tags: tools creators
 title:  "Freesound Explorer"
 author: Frederic Font
 ---

@@ -4,7 +4,7 @@ cover: assets/img/ac_audio_web_demonstrator.png
 navigation: True
 class: post-template
 subclass: 'post'
-tags: tools
+tags: tools researchers developers
 title:  "Audio Commons Audio Extractor: Web Demonstrator"
 author: Frederic Font
 ---

@@ -4,7 +4,7 @@ cover: assets/img/freesound_api.png
 navigation: True
 class: post-template
 subclass: 'post'
-tags: tools
+tags: tools developers
 title:  "Freesound API"
 author: Frederic Font
 ---
