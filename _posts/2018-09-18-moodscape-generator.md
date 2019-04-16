@@ -5,7 +5,7 @@ navigation: True
 class: post-template
 subclass: 'post'
 tags: tools creators
-title:  "MoodScape Generator: Automated Generation of Soundscapes"
+title:  "MoodScape Generator"
 author: Tayjo Padmini Vaduru
 ---
 
